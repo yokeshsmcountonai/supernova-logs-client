@@ -1,0 +1,8 @@
+core_to_camera{device="cam1"} 22
+camera_to_core{device="cam1"} 23
+core_to_infer{device="cam1"} 23
+infer_to_ml{device="cam1"} 23
+ml_to_core{device="cam1"} 0
+core_to_alarm{device="cam1"} 0
+alarm_to_core{device="cam1"} 0
+timestamp{device="cam1"} 1740818196.919901
