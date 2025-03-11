@@ -93,21 +93,21 @@ def fetch_details(device_list):
 
         # Queries for cam1, cam2, and cm5
         cam1_query = """
-            SELECT cpu_usage, ram_usage, voltage, temperature, gpu_temperature, timestamp
-            FROM cam1_log
-            ORDER BY timestamp DESC
+            SELECT cpu_usage, ram_usage, voltage, temperature, gpu_temperature,timestamp,  
+            EXTRACT(EPOCH FROM timestamp::TIMESTAMP) AS unix_timestamp 
+            FROM cam1_log ORDER BY timestamp DESC 
             LIMIT 1;
         """
         cam2_query = """
-            SELECT cpu_usage, ram_usage, voltage, temperature, gpu_temperature, timestamp
-            FROM cam2_log
-            ORDER BY timestamp DESC
+            SELECT cpu_usage, ram_usage, voltage, temperature, gpu_temperature,timestamp,  
+            EXTRACT(EPOCH FROM timestamp::TIMESTAMP) AS unix_timestamp 
+            FROM cam2_log ORDER BY timestamp DESC 
             LIMIT 1;
         """
         cm5_query = """
-            SELECT cpu_usage, ram_usage, voltage, temperature, gpu_temperature, timestamp
-            FROM cm5_log
-            ORDER BY timestamp DESC
+            SELECT cpu_usage, ram_usage, voltage, temperature, gpu_temperature,timestamp,  
+            EXTRACT(EPOCH FROM timestamp::TIMESTAMP) AS unix_timestamp 
+            FROM cm5_log ORDER BY timestamp DESC 
             LIMIT 1;
         """
 
@@ -149,29 +149,31 @@ def fetch_details_core_fpr():
 
         # Queries for cam1, cam2, and cm5
         cam1_query = """
-            SELECT core_to_camera,camera_to_core,core_to_infer,infer_to_ml,ml_to_core, core_to_alarm, alarm_to_core,EXTRACT(EPOCH FROM rotation_details.timestamp) AS timestamp
+            SELECT core_to_camera,camera_to_core,core_to_infer,infer_to_ml,ml_to_core, core_to_alarm, alarm_to_core,EXTRACT(EPOCH FROM rotation_details.timestamp) AS c_timestamp
             FROM public.corefpr_log_cam1 
             JOIN public.rotation_details 
             ON corefpr_log_cam1.revolution_id = rotation_details.rotation_id
             ORDER BY rotation_details.timestamp DESC
-            LIMIT 5
+            OFFSET 3
+            LIMIT 20
             
         """
         cam2_query = """
-            SELECT core_to_camera,camera_to_core,core_to_infer,infer_to_ml,ml_to_core, core_to_alarm, alarm_to_core,EXTRACT(EPOCH FROM rotation_details.timestamp) AS timestamp
+            SELECT core_to_camera,camera_to_core,core_to_infer,infer_to_ml,ml_to_core, core_to_alarm, alarm_to_core,EXTRACT(EPOCH FROM rotation_details.timestamp) AS c_timestamp
             FROM public.corefpr_log_cam2
             JOIN public.rotation_details 
             ON corefpr_log_cam2.revolution_id = rotation_details.rotation_id
             ORDER BY rotation_details.timestamp DESC
-            LIMIT 5
+            OFFSET 3
+            LIMIT 20
         """
         
         # Execute each query separately
         cursor.execute(cam1_query)
-        cam1_result = cursor.fetchone()
+        cam1_result = cursor.fetchall()
 
         cursor.execute(cam2_query)
-        cam2_result = cursor.fetchone()
+        cam2_result = cursor.fetchall()
 
     
 

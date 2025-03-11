@@ -1,8 +1,80 @@
-core_to_camera{device="cam1"} 22
-camera_to_core{device="cam1"} 23
-core_to_infer{device="cam1"} 23
-infer_to_ml{device="cam1"} 23
-ml_to_core{device="cam1"} 0
-core_to_alarm{device="cam1"} 0
-alarm_to_core{device="cam1"} 0
-timestamp{device="cam1"} 1740818196.919901
+core_to_camera{device="cam1", id="0"} 17
+camera_to_core{device="cam1", id="0"} 17
+core_to_infer{device="cam1", id="0"} 17
+infer_to_ml{device="cam1", id="0"} 17
+ml_to_core{device="cam1", id="0"} 17
+core_to_alarm{device="cam1", id="0"} 17
+alarm_to_core{device="cam1", id="0"} 0
+cf_timestamp{device="cam1", id="0"} 1741080816.319308
+core_to_camera{device="cam1", id="1"} 21
+camera_to_core{device="cam1", id="1"} 21
+core_to_infer{device="cam1", id="1"} 21
+infer_to_ml{device="cam1", id="1"} 21
+ml_to_core{device="cam1", id="1"} 21
+core_to_alarm{device="cam1", id="1"} 21
+alarm_to_core{device="cam1", id="1"} 0
+cf_timestamp{device="cam1", id="1"} 1741080814.302920
+core_to_camera{device="cam1", id="2"} 20
+camera_to_core{device="cam1", id="2"} 20
+core_to_infer{device="cam1", id="2"} 20
+infer_to_ml{device="cam1", id="2"} 20
+ml_to_core{device="cam1", id="2"} 20
+core_to_alarm{device="cam1", id="2"} 20
+alarm_to_core{device="cam1", id="2"} 0
+cf_timestamp{device="cam1", id="2"} 1741080812.348252
+core_to_camera{device="cam1", id="3"} 18
+camera_to_core{device="cam1", id="3"} 18
+core_to_infer{device="cam1", id="3"} 18
+infer_to_ml{device="cam1", id="3"} 18
+ml_to_core{device="cam1", id="3"} 19
+core_to_alarm{device="cam1", id="3"} 19
+alarm_to_core{device="cam1", id="3"} 0
+cf_timestamp{device="cam1", id="3"} 1741080810.161701
+core_to_camera{device="cam1", id="4"} 23
+camera_to_core{device="cam1", id="4"} 23
+core_to_infer{device="cam1", id="4"} 23
+infer_to_ml{device="cam1", id="4"} 23
+ml_to_core{device="cam1", id="4"} 22
+core_to_alarm{device="cam1", id="4"} 22
+alarm_to_core{device="cam1", id="4"} 0
+cf_timestamp{device="cam1", id="4"} 1741080807.957281
+core_to_camera{device="cam2", id="0"} 23
+camera_to_core{device="cam2", id="0"} 23
+core_to_infer{device="cam2", id="0"} 23
+infer_to_ml{device="cam2", id="0"} 23
+ml_to_core{device="cam2", id="0"} 22
+core_to_alarm{device="cam2", id="0"} 22
+alarm_to_core{device="cam2", id="0"} 22
+cf_timestamp{device="cam2", id="0"} 1741322716.446910
+core_to_camera{device="cam2", id="1"} 17
+camera_to_core{device="cam2", id="1"} 17
+core_to_infer{device="cam2", id="1"} 17
+infer_to_ml{device="cam2", id="1"} 17
+ml_to_core{device="cam2", id="1"} 17
+core_to_alarm{device="cam2", id="1"} 17
+alarm_to_core{device="cam2", id="1"} 17
+cf_timestamp{device="cam2", id="1"} 1741322714.472514
+core_to_camera{device="cam2", id="2"} 23
+camera_to_core{device="cam2", id="2"} 23
+core_to_infer{device="cam2", id="2"} 23
+infer_to_ml{device="cam2", id="2"} 23
+ml_to_core{device="cam2", id="2"} 23
+core_to_alarm{device="cam2", id="2"} 23
+alarm_to_core{device="cam2", id="2"} 23
+cf_timestamp{device="cam2", id="2"} 1741322712.238696
+core_to_camera{device="cam2", id="3"} 18
+camera_to_core{device="cam2", id="3"} 18
+core_to_infer{device="cam2", id="3"} 18
+infer_to_ml{device="cam2", id="3"} 18
+ml_to_core{device="cam2", id="3"} 18
+core_to_alarm{device="cam2", id="3"} 18
+alarm_to_core{device="cam2", id="3"} 18
+cf_timestamp{device="cam2", id="3"} 1741322710.299818
+core_to_camera{device="cam2", id="4"} 19
+camera_to_core{device="cam2", id="4"} 19
+core_to_infer{device="cam2", id="4"} 19
+infer_to_ml{device="cam2", id="4"} 19
+ml_to_core{device="cam2", id="4"} 19
+core_to_alarm{device="cam2", id="4"} 19
+alarm_to_core{device="cam2", id="4"} 19
+cf_timestamp{device="cam2", id="4"} 1741322708.157379
