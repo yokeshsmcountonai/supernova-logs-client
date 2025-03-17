@@ -2,7 +2,7 @@ import psycopg2
 from psycopg2 import sql
 
 # PostgreSQL database credentials
-DB_HOST = "100.65.137.88" #http://100.65.137.88/
+DB_HOST = "localhost" #http://100.65.137.88/
 DB_PORT = "5432"
 DB_NAME = "knitting"
 DB_USER = "postgres"
@@ -147,27 +147,67 @@ def fetch_details_core_fpr():
     try:
         cursor = conn.cursor()
 
-        # Queries for cam1, cam2, and cm5
         cam1_query = """
-            SELECT core_to_camera,camera_to_core,core_to_infer,infer_to_ml,ml_to_core, core_to_alarm, alarm_to_core,EXTRACT(EPOCH FROM rotation_details.timestamp) AS c_timestamp
+            WITH selected_rows AS (
+            SELECT corefprlog_id, revolution_id, core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
+                ml_to_core, core_to_alarm, alarm_to_core,
+                EXTRACT(EPOCH FROM rotation_details.timestamp) AS c_timestamp
             FROM public.corefpr_log_cam1 
             JOIN public.rotation_details 
             ON corefpr_log_cam1.revolution_id = rotation_details.rotation_id
-            ORDER BY rotation_details.timestamp DESC
+            WHERE fetched = 2
+            ORDER BY rotation_details.rotation_id ASC
             OFFSET 3
-            LIMIT 20
-            
-        """
-        cam2_query = """
-            SELECT core_to_camera,camera_to_core,core_to_infer,infer_to_ml,ml_to_core, core_to_alarm, alarm_to_core,EXTRACT(EPOCH FROM rotation_details.timestamp) AS c_timestamp
-            FROM public.corefpr_log_cam2
-            JOIN public.rotation_details 
-            ON corefpr_log_cam2.revolution_id = rotation_details.rotation_id
-            ORDER BY rotation_details.timestamp DESC
-            OFFSET 3
-            LIMIT 20
+            LIMIT 100
+        ),
+        updated_rows AS (
+            UPDATE public.corefpr_log_cam1
+            SET fetched = 1
+            WHERE corefprlog_id IN (SELECT corefprlog_id FROM selected_rows)
+            RETURNING core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
+                    ml_to_core, core_to_alarm, alarm_to_core, revolution_id,
+                    (SELECT c_timestamp FROM selected_rows WHERE selected_rows.corefprlog_id = corefpr_log_cam1.corefprlog_id) AS c_timestamp
+        )
+        SELECT core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
+            ml_to_core, core_to_alarm, alarm_to_core, c_timestamp
+        FROM updated_rows
+        ORDER BY revolution_id;
         """
         
+        cam2_query = """
+            WITH selected_rows AS (
+            SELECT corefprlog_id, revolution_id, core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
+                ml_to_core, core_to_alarm, alarm_to_core,
+                EXTRACT(EPOCH FROM rotation_details.timestamp) AS c_timestamp
+            FROM public.corefpr_log_cam2 
+            JOIN public.rotation_details 
+            ON corefpr_log_cam2.revolution_id = rotation_details.rotation_id
+            WHERE fetched = 2
+            ORDER BY rotation_details.rotation_id ASC
+            OFFSET 3
+            LIMIT 100
+        ),
+        updated_rows AS (
+            UPDATE public.corefpr_log_cam2
+            SET fetched = 1
+            WHERE corefprlog_id IN (SELECT corefprlog_id FROM selected_rows)
+            RETURNING core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
+                    ml_to_core, core_to_alarm, alarm_to_core, revolution_id,
+                    (SELECT c_timestamp FROM selected_rows WHERE selected_rows.corefprlog_id = corefpr_log_cam2.corefprlog_id) AS c_timestamp
+        )
+        SELECT core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
+            ml_to_core, core_to_alarm, alarm_to_core, c_timestamp
+        FROM updated_rows
+        ORDER BY revolution_id;
+
+        """
+        # SELECT core_to_camera,camera_to_core,core_to_infer,infer_to_ml,ml_to_core, core_to_alarm, alarm_to_core,EXTRACT(EPOCH FROM rotation_details.timestamp) AS c_timestamp
+        # FROM public.corefpr_log_cam2
+        # JOIN public.rotation_details 
+        #      ON corefpr_log_cam2.revolution_id = rotation_details.rotation_id
+        #      ORDER BY rotation_details.timestamp DESC
+        #      OFFSET 3
+        #      LIMIT 20
         # Execute each query separately
         cursor.execute(cam1_query)
         cam1_result = cursor.fetchall()
@@ -175,12 +215,12 @@ def fetch_details_core_fpr():
         cursor.execute(cam2_query)
         cam2_result = cursor.fetchall()
 
-    
+        
 
         cursor.close()
         print(cam1_result,'**************************************')
         print(cam2_result,'######################################')
-        # Return results as a dictionary
+        
         return {
             "cam1": cam1_result,
             "cam2": cam2_result

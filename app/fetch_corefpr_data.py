@@ -28,7 +28,7 @@ def fetch_data_from_cameras():
     """Fetch latest data from multiple devices and write to Prometheus .prom file."""
     while True:
         result = db.fetch_details_core_fpr()
-        print(f"Raw Result: {result}")
+        # print(f"Raw Result: {result}")
 
         if result:
             converted_result = {cam: values for cam, values in result.items() if values}

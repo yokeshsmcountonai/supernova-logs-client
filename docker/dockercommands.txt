@@ -1,4 +1,4 @@
-sudo docker build --platform=linux/arm64 -t countaiadmin/supernova-logs-client-side:1.0.0 .
+sudo docker build --platform=linux/arm64 -t countaiadmin/supernova-logs-client-side:1.0.1 .
 sudo docker run -it --privileged  --network=host --name supernova-logs-client -v /home/kniti/projects/prometheus:/app/output  --restart=always countaiadmin/supernova-logs-client-side:1.0.0
 
 
