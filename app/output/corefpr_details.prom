@@ -5,7 +5,7 @@ infer_to_ml{device="cam1", id="0"} 0
 ml_to_core{device="cam1", id="0"} 0
 core_to_alarm{device="cam1", id="0"} 0
 alarm_to_core{device="cam1", id="0"} 0
-cf_timestamp{device="cam1", id="0"} 1
+cf_timestamp{device="cam1", id="0"} 1740554974.797354
 core_to_camera{device="cam1", id="1"} 0
 camera_to_core{device="cam1", id="1"} 0
 core_to_infer{device="cam1", id="1"} 0
@@ -13,7 +13,7 @@ infer_to_ml{device="cam1", id="1"} 0
 ml_to_core{device="cam1", id="1"} 0
 core_to_alarm{device="cam1", id="1"} 0
 alarm_to_core{device="cam1", id="1"} 0
-cf_timestamp{device="cam1", id="1"} 1
+cf_timestamp{device="cam1", id="1"} 1740554976.769482
 core_to_camera{device="cam1", id="2"} 0
 camera_to_core{device="cam1", id="2"} 0
 core_to_infer{device="cam1", id="2"} 0
@@ -21,7 +21,7 @@ infer_to_ml{device="cam1", id="2"} 0
 ml_to_core{device="cam1", id="2"} 0
 core_to_alarm{device="cam1", id="2"} 0
 alarm_to_core{device="cam1", id="2"} 0
-cf_timestamp{device="cam1", id="2"} 1
+cf_timestamp{device="cam1", id="2"} 1740554979.180153
 core_to_camera{device="cam1", id="3"} 0
 camera_to_core{device="cam1", id="3"} 0
 core_to_infer{device="cam1", id="3"} 0
@@ -29,7 +29,7 @@ infer_to_ml{device="cam1", id="3"} 0
 ml_to_core{device="cam1", id="3"} 0
 core_to_alarm{device="cam1", id="3"} 0
 alarm_to_core{device="cam1", id="3"} 0
-cf_timestamp{device="cam1", id="3"} 1
+cf_timestamp{device="cam1", id="3"} 1740554981.489704
 core_to_camera{device="cam1", id="4"} 0
 camera_to_core{device="cam1", id="4"} 0
 core_to_infer{device="cam1", id="4"} 0
@@ -37,7 +37,7 @@ infer_to_ml{device="cam1", id="4"} 0
 ml_to_core{device="cam1", id="4"} 0
 core_to_alarm{device="cam1", id="4"} 0
 alarm_to_core{device="cam1", id="4"} 0
-cf_timestamp{device="cam1", id="4"} 1
+cf_timestamp{device="cam1", id="4"} 1740554984.207650
 core_to_camera{device="cam1", id="5"} 0
 camera_to_core{device="cam1", id="5"} 0
 core_to_infer{device="cam1", id="5"} 0
@@ -45,7 +45,7 @@ infer_to_ml{device="cam1", id="5"} 0
 ml_to_core{device="cam1", id="5"} 0
 core_to_alarm{device="cam1", id="5"} 0
 alarm_to_core{device="cam1", id="5"} 0
-cf_timestamp{device="cam1", id="5"} 1
+cf_timestamp{device="cam1", id="5"} 1740554986.884816
 core_to_camera{device="cam1", id="6"} 0
 camera_to_core{device="cam1", id="6"} 0
 core_to_infer{device="cam1", id="6"} 0
@@ -53,7 +53,7 @@ infer_to_ml{device="cam1", id="6"} 0
 ml_to_core{device="cam1", id="6"} 0
 core_to_alarm{device="cam1", id="6"} 0
 alarm_to_core{device="cam1", id="6"} 0
-cf_timestamp{device="cam1", id="6"} 1
+cf_timestamp{device="cam1", id="6"} 1740554989.674525
 core_to_camera{device="cam1", id="7"} 0
 camera_to_core{device="cam1", id="7"} 0
 core_to_infer{device="cam1", id="7"} 0
@@ -61,7 +61,7 @@ infer_to_ml{device="cam1", id="7"} 0
 ml_to_core{device="cam1", id="7"} 0
 core_to_alarm{device="cam1", id="7"} 0
 alarm_to_core{device="cam1", id="7"} 0
-cf_timestamp{device="cam1", id="7"} 1
+cf_timestamp{device="cam1", id="7"} 1740554991.792451
 core_to_camera{device="cam1", id="8"} 0
 camera_to_core{device="cam1", id="8"} 0
 core_to_infer{device="cam1", id="8"} 0
@@ -69,7 +69,7 @@ infer_to_ml{device="cam1", id="8"} 0
 ml_to_core{device="cam1", id="8"} 0
 core_to_alarm{device="cam1", id="8"} 0
 alarm_to_core{device="cam1", id="8"} 0
-cf_timestamp{device="cam1", id="8"} 1
+cf_timestamp{device="cam1", id="8"} 1740554994.177709
 core_to_camera{device="cam1", id="9"} 0
 camera_to_core{device="cam1", id="9"} 0
 core_to_infer{device="cam1", id="9"} 0
@@ -77,7 +77,7 @@ infer_to_ml{device="cam1", id="9"} 0
 ml_to_core{device="cam1", id="9"} 0
 core_to_alarm{device="cam1", id="9"} 0
 alarm_to_core{device="cam1", id="9"} 0
-cf_timestamp{device="cam1", id="9"} 1
+cf_timestamp{device="cam1", id="9"} 1740554997.059786
 core_to_camera{device="cam1", id="10"} 0
 camera_to_core{device="cam1", id="10"} 0
 core_to_infer{device="cam1", id="10"} 0
@@ -85,7 +85,7 @@ infer_to_ml{device="cam1", id="10"} 0
 ml_to_core{device="cam1", id="10"} 0
 core_to_alarm{device="cam1", id="10"} 0
 alarm_to_core{device="cam1", id="10"} 0
-cf_timestamp{device="cam1", id="10"} 1
+cf_timestamp{device="cam1", id="10"} 1740555001.217592
 core_to_camera{device="cam1", id="11"} 0
 camera_to_core{device="cam1", id="11"} 0
 core_to_infer{device="cam1", id="11"} 0
@@ -93,7 +93,7 @@ infer_to_ml{device="cam1", id="11"} 0
 ml_to_core{device="cam1", id="11"} 0
 core_to_alarm{device="cam1", id="11"} 0
 alarm_to_core{device="cam1", id="11"} 0
-cf_timestamp{device="cam1", id="11"} 1
+cf_timestamp{device="cam1", id="11"} 1740555004.330362
 core_to_camera{device="cam1", id="12"} 0
 camera_to_core{device="cam1", id="12"} 0
 core_to_infer{device="cam1", id="12"} 0
@@ -101,7 +101,7 @@ infer_to_ml{device="cam1", id="12"} 0
 ml_to_core{device="cam1", id="12"} 0
 core_to_alarm{device="cam1", id="12"} 0
 alarm_to_core{device="cam1", id="12"} 0
-cf_timestamp{device="cam1", id="12"} 1
+cf_timestamp{device="cam1", id="12"} 1740555007.206628
 core_to_camera{device="cam1", id="13"} 0
 camera_to_core{device="cam1", id="13"} 0
 core_to_infer{device="cam1", id="13"} 0
@@ -109,7 +109,7 @@ infer_to_ml{device="cam1", id="13"} 0
 ml_to_core{device="cam1", id="13"} 0
 core_to_alarm{device="cam1", id="13"} 0
 alarm_to_core{device="cam1", id="13"} 0
-cf_timestamp{device="cam1", id="13"} 1
+cf_timestamp{device="cam1", id="13"} 1740555009.529858
 core_to_camera{device="cam1", id="14"} 0
 camera_to_core{device="cam1", id="14"} 0
 core_to_infer{device="cam1", id="14"} 0
@@ -117,7 +117,7 @@ infer_to_ml{device="cam1", id="14"} 0
 ml_to_core{device="cam1", id="14"} 0
 core_to_alarm{device="cam1", id="14"} 0
 alarm_to_core{device="cam1", id="14"} 0
-cf_timestamp{device="cam1", id="14"} 1
+cf_timestamp{device="cam1", id="14"} 1740555012.239266
 core_to_camera{device="cam1", id="15"} 0
 camera_to_core{device="cam1", id="15"} 0
 core_to_infer{device="cam1", id="15"} 0
@@ -125,7 +125,7 @@ infer_to_ml{device="cam1", id="15"} 0
 ml_to_core{device="cam1", id="15"} 0
 core_to_alarm{device="cam1", id="15"} 0
 alarm_to_core{device="cam1", id="15"} 0
-cf_timestamp{device="cam1", id="15"} 1
+cf_timestamp{device="cam1", id="15"} 1740555014.182954
 core_to_camera{device="cam1", id="16"} 0
 camera_to_core{device="cam1", id="16"} 0
 core_to_infer{device="cam1", id="16"} 0
@@ -133,7 +133,7 @@ infer_to_ml{device="cam1", id="16"} 0
 ml_to_core{device="cam1", id="16"} 0
 core_to_alarm{device="cam1", id="16"} 0
 alarm_to_core{device="cam1", id="16"} 0
-cf_timestamp{device="cam1", id="16"} 1
+cf_timestamp{device="cam1", id="16"} 1740555016.436009
 core_to_camera{device="cam1", id="17"} 0
 camera_to_core{device="cam1", id="17"} 0
 core_to_infer{device="cam1", id="17"} 0
@@ -141,7 +141,7 @@ infer_to_ml{device="cam1", id="17"} 0
 ml_to_core{device="cam1", id="17"} 0
 core_to_alarm{device="cam1", id="17"} 0
 alarm_to_core{device="cam1", id="17"} 0
-cf_timestamp{device="cam1", id="17"} 1
+cf_timestamp{device="cam1", id="17"} 1740555018.549527
 core_to_camera{device="cam1", id="18"} 0
 camera_to_core{device="cam1", id="18"} 0
 core_to_infer{device="cam1", id="18"} 0
@@ -149,7 +149,7 @@ infer_to_ml{device="cam1", id="18"} 0
 ml_to_core{device="cam1", id="18"} 0
 core_to_alarm{device="cam1", id="18"} 0
 alarm_to_core{device="cam1", id="18"} 0
-cf_timestamp{device="cam1", id="18"} 1
+cf_timestamp{device="cam1", id="18"} 1740555021.231134
 core_to_camera{device="cam1", id="19"} 0
 camera_to_core{device="cam1", id="19"} 0
 core_to_infer{device="cam1", id="19"} 0
@@ -157,7 +157,7 @@ infer_to_ml{device="cam1", id="19"} 0
 ml_to_core{device="cam1", id="19"} 0
 core_to_alarm{device="cam1", id="19"} 0
 alarm_to_core{device="cam1", id="19"} 0
-cf_timestamp{device="cam1", id="19"} 1
+cf_timestamp{device="cam1", id="19"} 1740555024.193262
 core_to_camera{device="cam1", id="20"} 0
 camera_to_core{device="cam1", id="20"} 0
 core_to_infer{device="cam1", id="20"} 0
@@ -165,7 +165,7 @@ infer_to_ml{device="cam1", id="20"} 0
 ml_to_core{device="cam1", id="20"} 0
 core_to_alarm{device="cam1", id="20"} 0
 alarm_to_core{device="cam1", id="20"} 0
-cf_timestamp{device="cam1", id="20"} 1
+cf_timestamp{device="cam1", id="20"} 1740555027.520101
 core_to_camera{device="cam1", id="21"} 0
 camera_to_core{device="cam1", id="21"} 0
 core_to_infer{device="cam1", id="21"} 0
@@ -173,7 +173,7 @@ infer_to_ml{device="cam1", id="21"} 0
 ml_to_core{device="cam1", id="21"} 0
 core_to_alarm{device="cam1", id="21"} 0
 alarm_to_core{device="cam1", id="21"} 0
-cf_timestamp{device="cam1", id="21"} 1
+cf_timestamp{device="cam1", id="21"} 1740555029.868012
 core_to_camera{device="cam1", id="22"} 0
 camera_to_core{device="cam1", id="22"} 0
 core_to_infer{device="cam1", id="22"} 0
@@ -181,7 +181,7 @@ infer_to_ml{device="cam1", id="22"} 0
 ml_to_core{device="cam1", id="22"} 0
 core_to_alarm{device="cam1", id="22"} 0
 alarm_to_core{device="cam1", id="22"} 0
-cf_timestamp{device="cam1", id="22"} 1
+cf_timestamp{device="cam1", id="22"} 1740555032.967146
 core_to_camera{device="cam1", id="23"} 0
 camera_to_core{device="cam1", id="23"} 0
 core_to_infer{device="cam1", id="23"} 0
@@ -189,7 +189,7 @@ infer_to_ml{device="cam1", id="23"} 0
 ml_to_core{device="cam1", id="23"} 0
 core_to_alarm{device="cam1", id="23"} 0
 alarm_to_core{device="cam1", id="23"} 0
-cf_timestamp{device="cam1", id="23"} 1
+cf_timestamp{device="cam1", id="23"} 1740555036.261786
 core_to_camera{device="cam1", id="24"} 0
 camera_to_core{device="cam1", id="24"} 0
 core_to_infer{device="cam1", id="24"} 0
@@ -197,7 +197,7 @@ infer_to_ml{device="cam1", id="24"} 0
 ml_to_core{device="cam1", id="24"} 0
 core_to_alarm{device="cam1", id="24"} 0
 alarm_to_core{device="cam1", id="24"} 0
-cf_timestamp{device="cam1", id="24"} 1
+cf_timestamp{device="cam1", id="24"} 1740555038.314758
 core_to_camera{device="cam1", id="25"} 0
 camera_to_core{device="cam1", id="25"} 0
 core_to_infer{device="cam1", id="25"} 0
@@ -205,7 +205,7 @@ infer_to_ml{device="cam1", id="25"} 0
 ml_to_core{device="cam1", id="25"} 0
 core_to_alarm{device="cam1", id="25"} 0
 alarm_to_core{device="cam1", id="25"} 0
-cf_timestamp{device="cam1", id="25"} 1
+cf_timestamp{device="cam1", id="25"} 1740555040.651508
 core_to_camera{device="cam1", id="26"} 0
 camera_to_core{device="cam1", id="26"} 0
 core_to_infer{device="cam1", id="26"} 0
@@ -213,7 +213,7 @@ infer_to_ml{device="cam1", id="26"} 0
 ml_to_core{device="cam1", id="26"} 0
 core_to_alarm{device="cam1", id="26"} 0
 alarm_to_core{device="cam1", id="26"} 0
-cf_timestamp{device="cam1", id="26"} 1
+cf_timestamp{device="cam1", id="26"} 1740555043.268228
 core_to_camera{device="cam1", id="27"} 0
 camera_to_core{device="cam1", id="27"} 0
 core_to_infer{device="cam1", id="27"} 0
@@ -221,7 +221,7 @@ infer_to_ml{device="cam1", id="27"} 0
 ml_to_core{device="cam1", id="27"} 0
 core_to_alarm{device="cam1", id="27"} 0
 alarm_to_core{device="cam1", id="27"} 0
-cf_timestamp{device="cam1", id="27"} 1
+cf_timestamp{device="cam1", id="27"} 1740555045.639906
 core_to_camera{device="cam1", id="28"} 0
 camera_to_core{device="cam1", id="28"} 0
 core_to_infer{device="cam1", id="28"} 0
@@ -229,7 +229,7 @@ infer_to_ml{device="cam1", id="28"} 0
 ml_to_core{device="cam1", id="28"} 0
 core_to_alarm{device="cam1", id="28"} 0
 alarm_to_core{device="cam1", id="28"} 0
-cf_timestamp{device="cam1", id="28"} 1
+cf_timestamp{device="cam1", id="28"} 1740555047.754961
 core_to_camera{device="cam1", id="29"} 0
 camera_to_core{device="cam1", id="29"} 0
 core_to_infer{device="cam1", id="29"} 0
@@ -237,7 +237,7 @@ infer_to_ml{device="cam1", id="29"} 0
 ml_to_core{device="cam1", id="29"} 0
 core_to_alarm{device="cam1", id="29"} 0
 alarm_to_core{device="cam1", id="29"} 0
-cf_timestamp{device="cam1", id="29"} 1
+cf_timestamp{device="cam1", id="29"} 1740555050.348534
 core_to_camera{device="cam1", id="30"} 0
 camera_to_core{device="cam1", id="30"} 0
 core_to_infer{device="cam1", id="30"} 0
@@ -245,7 +245,7 @@ infer_to_ml{device="cam1", id="30"} 0
 ml_to_core{device="cam1", id="30"} 0
 core_to_alarm{device="cam1", id="30"} 0
 alarm_to_core{device="cam1", id="30"} 0
-cf_timestamp{device="cam1", id="30"} 1
+cf_timestamp{device="cam1", id="30"} 1740555052.775439
 core_to_camera{device="cam1", id="31"} 0
 camera_to_core{device="cam1", id="31"} 0
 core_to_infer{device="cam1", id="31"} 0
@@ -253,7 +253,7 @@ infer_to_ml{device="cam1", id="31"} 0
 ml_to_core{device="cam1", id="31"} 0
 core_to_alarm{device="cam1", id="31"} 0
 alarm_to_core{device="cam1", id="31"} 0
-cf_timestamp{device="cam1", id="31"} 1
+cf_timestamp{device="cam1", id="31"} 1740555056.015618
 core_to_camera{device="cam1", id="32"} 0
 camera_to_core{device="cam1", id="32"} 0
 core_to_infer{device="cam1", id="32"} 0
@@ -261,7 +261,7 @@ infer_to_ml{device="cam1", id="32"} 0
 ml_to_core{device="cam1", id="32"} 0
 core_to_alarm{device="cam1", id="32"} 0
 alarm_to_core{device="cam1", id="32"} 0
-cf_timestamp{device="cam1", id="32"} 1
+cf_timestamp{device="cam1", id="32"} 1740555058.707799
 core_to_camera{device="cam1", id="33"} 0
 camera_to_core{device="cam1", id="33"} 0
 core_to_infer{device="cam1", id="33"} 0
@@ -269,7 +269,7 @@ infer_to_ml{device="cam1", id="33"} 0
 ml_to_core{device="cam1", id="33"} 0
 core_to_alarm{device="cam1", id="33"} 0
 alarm_to_core{device="cam1", id="33"} 0
-cf_timestamp{device="cam1", id="33"} 1
+cf_timestamp{device="cam1", id="33"} 1740555062.841513
 core_to_camera{device="cam1", id="34"} 0
 camera_to_core{device="cam1", id="34"} 0
 core_to_infer{device="cam1", id="34"} 0
@@ -277,7 +277,7 @@ infer_to_ml{device="cam1", id="34"} 0
 ml_to_core{device="cam1", id="34"} 0
 core_to_alarm{device="cam1", id="34"} 0
 alarm_to_core{device="cam1", id="34"} 0
-cf_timestamp{device="cam1", id="34"} 1
+cf_timestamp{device="cam1", id="34"} 1740555065.397467
 core_to_camera{device="cam1", id="35"} 0
 camera_to_core{device="cam1", id="35"} 0
 core_to_infer{device="cam1", id="35"} 0
@@ -285,7 +285,7 @@ infer_to_ml{device="cam1", id="35"} 0
 ml_to_core{device="cam1", id="35"} 0
 core_to_alarm{device="cam1", id="35"} 0
 alarm_to_core{device="cam1", id="35"} 0
-cf_timestamp{device="cam1", id="35"} 1
+cf_timestamp{device="cam1", id="35"} 1740555068.616744
 core_to_camera{device="cam1", id="36"} 0
 camera_to_core{device="cam1", id="36"} 0
 core_to_infer{device="cam1", id="36"} 0
@@ -293,7 +293,7 @@ infer_to_ml{device="cam1", id="36"} 0
 ml_to_core{device="cam1", id="36"} 0
 core_to_alarm{device="cam1", id="36"} 0
 alarm_to_core{device="cam1", id="36"} 0
-cf_timestamp{device="cam1", id="36"} 1
+cf_timestamp{device="cam1", id="36"} 1740555071.851161
 core_to_camera{device="cam1", id="37"} 0
 camera_to_core{device="cam1", id="37"} 0
 core_to_infer{device="cam1", id="37"} 0
@@ -301,7 +301,7 @@ infer_to_ml{device="cam1", id="37"} 0
 ml_to_core{device="cam1", id="37"} 0
 core_to_alarm{device="cam1", id="37"} 0
 alarm_to_core{device="cam1", id="37"} 0
-cf_timestamp{device="cam1", id="37"} 1
+cf_timestamp{device="cam1", id="37"} 1740555073.998475
 core_to_camera{device="cam1", id="38"} 0
 camera_to_core{device="cam1", id="38"} 0
 core_to_infer{device="cam1", id="38"} 0
@@ -309,7 +309,7 @@ infer_to_ml{device="cam1", id="38"} 0
 ml_to_core{device="cam1", id="38"} 0
 core_to_alarm{device="cam1", id="38"} 0
 alarm_to_core{device="cam1", id="38"} 0
-cf_timestamp{device="cam1", id="38"} 1
+cf_timestamp{device="cam1", id="38"} 1740555076.272089
 core_to_camera{device="cam1", id="39"} 0
 camera_to_core{device="cam1", id="39"} 0
 core_to_infer{device="cam1", id="39"} 0
@@ -317,7 +317,7 @@ infer_to_ml{device="cam1", id="39"} 0
 ml_to_core{device="cam1", id="39"} 0
 core_to_alarm{device="cam1", id="39"} 0
 alarm_to_core{device="cam1", id="39"} 0
-cf_timestamp{device="cam1", id="39"} 1
+cf_timestamp{device="cam1", id="39"} 1740555078.359933
 core_to_camera{device="cam1", id="40"} 0
 camera_to_core{device="cam1", id="40"} 0
 core_to_infer{device="cam1", id="40"} 0
@@ -325,7 +325,7 @@ infer_to_ml{device="cam1", id="40"} 0
 ml_to_core{device="cam1", id="40"} 0
 core_to_alarm{device="cam1", id="40"} 0
 alarm_to_core{device="cam1", id="40"} 0
-cf_timestamp{device="cam1", id="40"} 1
+cf_timestamp{device="cam1", id="40"} 1740555080.625711
 core_to_camera{device="cam1", id="41"} 0
 camera_to_core{device="cam1", id="41"} 0
 core_to_infer{device="cam1", id="41"} 0
@@ -333,7 +333,7 @@ infer_to_ml{device="cam1", id="41"} 0
 ml_to_core{device="cam1", id="41"} 0
 core_to_alarm{device="cam1", id="41"} 0
 alarm_to_core{device="cam1", id="41"} 0
-cf_timestamp{device="cam1", id="41"} 1
+cf_timestamp{device="cam1", id="41"} 1740555083.497710
 core_to_camera{device="cam1", id="42"} 0
 camera_to_core{device="cam1", id="42"} 0
 core_to_infer{device="cam1", id="42"} 0
@@ -341,7 +341,7 @@ infer_to_ml{device="cam1", id="42"} 0
 ml_to_core{device="cam1", id="42"} 0
 core_to_alarm{device="cam1", id="42"} 0
 alarm_to_core{device="cam1", id="42"} 0
-cf_timestamp{device="cam1", id="42"} 1
+cf_timestamp{device="cam1", id="42"} 1740555085.997440
 core_to_camera{device="cam1", id="43"} 0
 camera_to_core{device="cam1", id="43"} 0
 core_to_infer{device="cam1", id="43"} 0
@@ -349,7 +349,7 @@ infer_to_ml{device="cam1", id="43"} 0
 ml_to_core{device="cam1", id="43"} 0
 core_to_alarm{device="cam1", id="43"} 0
 alarm_to_core{device="cam1", id="43"} 0
-cf_timestamp{device="cam1", id="43"} 1
+cf_timestamp{device="cam1", id="43"} 1740555088.861155
 core_to_camera{device="cam1", id="44"} 0
 camera_to_core{device="cam1", id="44"} 0
 core_to_infer{device="cam1", id="44"} 0
@@ -357,7 +357,7 @@ infer_to_ml{device="cam1", id="44"} 0
 ml_to_core{device="cam1", id="44"} 0
 core_to_alarm{device="cam1", id="44"} 0
 alarm_to_core{device="cam1", id="44"} 0
-cf_timestamp{device="cam1", id="44"} 1
+cf_timestamp{device="cam1", id="44"} 1740555091.093150
 core_to_camera{device="cam1", id="45"} 0
 camera_to_core{device="cam1", id="45"} 0
 core_to_infer{device="cam1", id="45"} 0
@@ -365,7 +365,7 @@ infer_to_ml{device="cam1", id="45"} 0
 ml_to_core{device="cam1", id="45"} 0
 core_to_alarm{device="cam1", id="45"} 0
 alarm_to_core{device="cam1", id="45"} 0
-cf_timestamp{device="cam1", id="45"} 1
+cf_timestamp{device="cam1", id="45"} 1740555093.211123
 core_to_camera{device="cam1", id="46"} 0
 camera_to_core{device="cam1", id="46"} 0
 core_to_infer{device="cam1", id="46"} 0
@@ -373,7 +373,7 @@ infer_to_ml{device="cam1", id="46"} 0
 ml_to_core{device="cam1", id="46"} 0
 core_to_alarm{device="cam1", id="46"} 0
 alarm_to_core{device="cam1", id="46"} 0
-cf_timestamp{device="cam1", id="46"} 1
+cf_timestamp{device="cam1", id="46"} 1740555095.201580
 core_to_camera{device="cam1", id="47"} 0
 camera_to_core{device="cam1", id="47"} 0
 core_to_infer{device="cam1", id="47"} 0
@@ -381,7 +381,7 @@ infer_to_ml{device="cam1", id="47"} 0
 ml_to_core{device="cam1", id="47"} 0
 core_to_alarm{device="cam1", id="47"} 0
 alarm_to_core{device="cam1", id="47"} 0
-cf_timestamp{device="cam1", id="47"} 1
+cf_timestamp{device="cam1", id="47"} 1740555097.340920
 core_to_camera{device="cam1", id="48"} 0
 camera_to_core{device="cam1", id="48"} 0
 core_to_infer{device="cam1", id="48"} 0
@@ -389,7 +389,7 @@ infer_to_ml{device="cam1", id="48"} 0
 ml_to_core{device="cam1", id="48"} 0
 core_to_alarm{device="cam1", id="48"} 0
 alarm_to_core{device="cam1", id="48"} 0
-cf_timestamp{device="cam1", id="48"} 1
+cf_timestamp{device="cam1", id="48"} 1740555099.370583
 core_to_camera{device="cam1", id="49"} 0
 camera_to_core{device="cam1", id="49"} 0
 core_to_infer{device="cam1", id="49"} 0
@@ -397,7 +397,7 @@ infer_to_ml{device="cam1", id="49"} 0
 ml_to_core{device="cam1", id="49"} 0
 core_to_alarm{device="cam1", id="49"} 0
 alarm_to_core{device="cam1", id="49"} 0
-cf_timestamp{device="cam1", id="49"} 1
+cf_timestamp{device="cam1", id="49"} 1740555101.975137
 core_to_camera{device="cam1", id="50"} 0
 camera_to_core{device="cam1", id="50"} 0
 core_to_infer{device="cam1", id="50"} 0
@@ -405,7 +405,7 @@ infer_to_ml{device="cam1", id="50"} 0
 ml_to_core{device="cam1", id="50"} 0
 core_to_alarm{device="cam1", id="50"} 0
 alarm_to_core{device="cam1", id="50"} 0
-cf_timestamp{device="cam1", id="50"} 1
+cf_timestamp{device="cam1", id="50"} 1740555104.056637
 core_to_camera{device="cam1", id="51"} 0
 camera_to_core{device="cam1", id="51"} 0
 core_to_infer{device="cam1", id="51"} 0
@@ -413,7 +413,7 @@ infer_to_ml{device="cam1", id="51"} 0
 ml_to_core{device="cam1", id="51"} 0
 core_to_alarm{device="cam1", id="51"} 0
 alarm_to_core{device="cam1", id="51"} 0
-cf_timestamp{device="cam1", id="51"} 1
+cf_timestamp{device="cam1", id="51"} 1740555106.508949
 core_to_camera{device="cam1", id="52"} 0
 camera_to_core{device="cam1", id="52"} 0
 core_to_infer{device="cam1", id="52"} 0
@@ -421,7 +421,7 @@ infer_to_ml{device="cam1", id="52"} 0
 ml_to_core{device="cam1", id="52"} 0
 core_to_alarm{device="cam1", id="52"} 0
 alarm_to_core{device="cam1", id="52"} 0
-cf_timestamp{device="cam1", id="52"} 1
+cf_timestamp{device="cam1", id="52"} 1740555108.458216
 core_to_camera{device="cam1", id="53"} 0
 camera_to_core{device="cam1", id="53"} 0
 core_to_infer{device="cam1", id="53"} 0
@@ -429,7 +429,7 @@ infer_to_ml{device="cam1", id="53"} 0
 ml_to_core{device="cam1", id="53"} 0
 core_to_alarm{device="cam1", id="53"} 0
 alarm_to_core{device="cam1", id="53"} 0
-cf_timestamp{device="cam1", id="53"} 1
+cf_timestamp{device="cam1", id="53"} 1740555111.112534
 core_to_camera{device="cam1", id="54"} 0
 camera_to_core{device="cam1", id="54"} 0
 core_to_infer{device="cam1", id="54"} 0
@@ -437,7 +437,7 @@ infer_to_ml{device="cam1", id="54"} 0
 ml_to_core{device="cam1", id="54"} 0
 core_to_alarm{device="cam1", id="54"} 0
 alarm_to_core{device="cam1", id="54"} 0
-cf_timestamp{device="cam1", id="54"} 1
+cf_timestamp{device="cam1", id="54"} 1740555115.135341
 core_to_camera{device="cam1", id="55"} 0
 camera_to_core{device="cam1", id="55"} 0
 core_to_infer{device="cam1", id="55"} 0
@@ -445,7 +445,7 @@ infer_to_ml{device="cam1", id="55"} 0
 ml_to_core{device="cam1", id="55"} 0
 core_to_alarm{device="cam1", id="55"} 0
 alarm_to_core{device="cam1", id="55"} 0
-cf_timestamp{device="cam1", id="55"} 1
+cf_timestamp{device="cam1", id="55"} 1740555117.355161
 core_to_camera{device="cam1", id="56"} 0
 camera_to_core{device="cam1", id="56"} 0
 core_to_infer{device="cam1", id="56"} 0
@@ -453,7 +453,7 @@ infer_to_ml{device="cam1", id="56"} 0
 ml_to_core{device="cam1", id="56"} 0
 core_to_alarm{device="cam1", id="56"} 0
 alarm_to_core{device="cam1", id="56"} 0
-cf_timestamp{device="cam1", id="56"} 1
+cf_timestamp{device="cam1", id="56"} 1740555119.599018
 core_to_camera{device="cam1", id="57"} 0
 camera_to_core{device="cam1", id="57"} 0
 core_to_infer{device="cam1", id="57"} 0
@@ -461,7 +461,7 @@ infer_to_ml{device="cam1", id="57"} 0
 ml_to_core{device="cam1", id="57"} 0
 core_to_alarm{device="cam1", id="57"} 0
 alarm_to_core{device="cam1", id="57"} 0
-cf_timestamp{device="cam1", id="57"} 1
+cf_timestamp{device="cam1", id="57"} 1740555122.028306
 core_to_camera{device="cam1", id="58"} 0
 camera_to_core{device="cam1", id="58"} 0
 core_to_infer{device="cam1", id="58"} 0
@@ -469,7 +469,7 @@ infer_to_ml{device="cam1", id="58"} 0
 ml_to_core{device="cam1", id="58"} 0
 core_to_alarm{device="cam1", id="58"} 0
 alarm_to_core{device="cam1", id="58"} 0
-cf_timestamp{device="cam1", id="58"} 1
+cf_timestamp{device="cam1", id="58"} 1740555124.948856
 core_to_camera{device="cam1", id="59"} 0
 camera_to_core{device="cam1", id="59"} 0
 core_to_infer{device="cam1", id="59"} 0
@@ -477,7 +477,7 @@ infer_to_ml{device="cam1", id="59"} 0
 ml_to_core{device="cam1", id="59"} 0
 core_to_alarm{device="cam1", id="59"} 0
 alarm_to_core{device="cam1", id="59"} 0
-cf_timestamp{device="cam1", id="59"} 1
+cf_timestamp{device="cam1", id="59"} 1740555127.616674
 core_to_camera{device="cam1", id="60"} 0
 camera_to_core{device="cam1", id="60"} 0
 core_to_infer{device="cam1", id="60"} 0
@@ -485,7 +485,7 @@ infer_to_ml{device="cam1", id="60"} 0
 ml_to_core{device="cam1", id="60"} 0
 core_to_alarm{device="cam1", id="60"} 0
 alarm_to_core{device="cam1", id="60"} 0
-cf_timestamp{device="cam1", id="60"} 1
+cf_timestamp{device="cam1", id="60"} 1740555129.933158
 core_to_camera{device="cam1", id="61"} 0
 camera_to_core{device="cam1", id="61"} 0
 core_to_infer{device="cam1", id="61"} 0
@@ -493,7 +493,7 @@ infer_to_ml{device="cam1", id="61"} 0
 ml_to_core{device="cam1", id="61"} 0
 core_to_alarm{device="cam1", id="61"} 0
 alarm_to_core{device="cam1", id="61"} 0
-cf_timestamp{device="cam1", id="61"} 1
+cf_timestamp{device="cam1", id="61"} 1740555132.311123
 core_to_camera{device="cam1", id="62"} 0
 camera_to_core{device="cam1", id="62"} 0
 core_to_infer{device="cam1", id="62"} 0
@@ -501,7 +501,7 @@ infer_to_ml{device="cam1", id="62"} 0
 ml_to_core{device="cam1", id="62"} 0
 core_to_alarm{device="cam1", id="62"} 0
 alarm_to_core{device="cam1", id="62"} 0
-cf_timestamp{device="cam1", id="62"} 1
+cf_timestamp{device="cam1", id="62"} 1740555134.406058
 core_to_camera{device="cam1", id="63"} 0
 camera_to_core{device="cam1", id="63"} 0
 core_to_infer{device="cam1", id="63"} 0
@@ -509,7 +509,7 @@ infer_to_ml{device="cam1", id="63"} 0
 ml_to_core{device="cam1", id="63"} 0
 core_to_alarm{device="cam1", id="63"} 0
 alarm_to_core{device="cam1", id="63"} 0
-cf_timestamp{device="cam1", id="63"} 1
+cf_timestamp{device="cam1", id="63"} 1740555137.355303
 core_to_camera{device="cam1", id="64"} 0
 camera_to_core{device="cam1", id="64"} 0
 core_to_infer{device="cam1", id="64"} 0
@@ -517,7 +517,7 @@ infer_to_ml{device="cam1", id="64"} 0
 ml_to_core{device="cam1", id="64"} 0
 core_to_alarm{device="cam1", id="64"} 0
 alarm_to_core{device="cam1", id="64"} 0
-cf_timestamp{device="cam1", id="64"} 1
+cf_timestamp{device="cam1", id="64"} 1740555140.327702
 core_to_camera{device="cam1", id="65"} 0
 camera_to_core{device="cam1", id="65"} 0
 core_to_infer{device="cam1", id="65"} 0
@@ -525,7 +525,7 @@ infer_to_ml{device="cam1", id="65"} 0
 ml_to_core{device="cam1", id="65"} 0
 core_to_alarm{device="cam1", id="65"} 0
 alarm_to_core{device="cam1", id="65"} 0
-cf_timestamp{device="cam1", id="65"} 1
+cf_timestamp{device="cam1", id="65"} 1740555142.365434
 core_to_camera{device="cam1", id="66"} 0
 camera_to_core{device="cam1", id="66"} 0
 core_to_infer{device="cam1", id="66"} 0
@@ -533,7 +533,7 @@ infer_to_ml{device="cam1", id="66"} 0
 ml_to_core{device="cam1", id="66"} 0
 core_to_alarm{device="cam1", id="66"} 0
 alarm_to_core{device="cam1", id="66"} 0
-cf_timestamp{device="cam1", id="66"} 1
+cf_timestamp{device="cam1", id="66"} 1740555144.972718
 core_to_camera{device="cam1", id="67"} 0
 camera_to_core{device="cam1", id="67"} 0
 core_to_infer{device="cam1", id="67"} 0
@@ -541,7 +541,7 @@ infer_to_ml{device="cam1", id="67"} 0
 ml_to_core{device="cam1", id="67"} 0
 core_to_alarm{device="cam1", id="67"} 0
 alarm_to_core{device="cam1", id="67"} 0
-cf_timestamp{device="cam1", id="67"} 1
+cf_timestamp{device="cam1", id="67"} 1740555147.239979
 core_to_camera{device="cam1", id="68"} 0
 camera_to_core{device="cam1", id="68"} 0
 core_to_infer{device="cam1", id="68"} 0
@@ -549,7 +549,7 @@ infer_to_ml{device="cam1", id="68"} 0
 ml_to_core{device="cam1", id="68"} 0
 core_to_alarm{device="cam1", id="68"} 0
 alarm_to_core{device="cam1", id="68"} 0
-cf_timestamp{device="cam1", id="68"} 1
+cf_timestamp{device="cam1", id="68"} 1740555149.766257
 core_to_camera{device="cam1", id="69"} 0
 camera_to_core{device="cam1", id="69"} 0
 core_to_infer{device="cam1", id="69"} 0
@@ -557,7 +557,7 @@ infer_to_ml{device="cam1", id="69"} 0
 ml_to_core{device="cam1", id="69"} 0
 core_to_alarm{device="cam1", id="69"} 0
 alarm_to_core{device="cam1", id="69"} 0
-cf_timestamp{device="cam1", id="69"} 1
+cf_timestamp{device="cam1", id="69"} 1740555152.333885
 core_to_camera{device="cam1", id="70"} 0
 camera_to_core{device="cam1", id="70"} 0
 core_to_infer{device="cam1", id="70"} 0
@@ -565,7 +565,7 @@ infer_to_ml{device="cam1", id="70"} 0
 ml_to_core{device="cam1", id="70"} 0
 core_to_alarm{device="cam1", id="70"} 0
 alarm_to_core{device="cam1", id="70"} 0
-cf_timestamp{device="cam1", id="70"} 1
+cf_timestamp{device="cam1", id="70"} 1740555154.532862
 core_to_camera{device="cam1", id="71"} 0
 camera_to_core{device="cam1", id="71"} 0
 core_to_infer{device="cam1", id="71"} 0
@@ -573,7 +573,7 @@ infer_to_ml{device="cam1", id="71"} 0
 ml_to_core{device="cam1", id="71"} 0
 core_to_alarm{device="cam1", id="71"} 0
 alarm_to_core{device="cam1", id="71"} 0
-cf_timestamp{device="cam1", id="71"} 1
+cf_timestamp{device="cam1", id="71"} 1740555157.033265
 core_to_camera{device="cam1", id="72"} 0
 camera_to_core{device="cam1", id="72"} 0
 core_to_infer{device="cam1", id="72"} 0
@@ -581,7 +581,7 @@ infer_to_ml{device="cam1", id="72"} 0
 ml_to_core{device="cam1", id="72"} 0
 core_to_alarm{device="cam1", id="72"} 0
 alarm_to_core{device="cam1", id="72"} 0
-cf_timestamp{device="cam1", id="72"} 1
+cf_timestamp{device="cam1", id="72"} 1740555159.503380
 core_to_camera{device="cam1", id="73"} 0
 camera_to_core{device="cam1", id="73"} 0
 core_to_infer{device="cam1", id="73"} 0
@@ -589,7 +589,7 @@ infer_to_ml{device="cam1", id="73"} 0
 ml_to_core{device="cam1", id="73"} 0
 core_to_alarm{device="cam1", id="73"} 0
 alarm_to_core{device="cam1", id="73"} 0
-cf_timestamp{device="cam1", id="73"} 1
+cf_timestamp{device="cam1", id="73"} 1740555161.857790
 core_to_camera{device="cam1", id="74"} 0
 camera_to_core{device="cam1", id="74"} 0
 core_to_infer{device="cam1", id="74"} 0
@@ -597,7 +597,7 @@ infer_to_ml{device="cam1", id="74"} 0
 ml_to_core{device="cam1", id="74"} 0
 core_to_alarm{device="cam1", id="74"} 0
 alarm_to_core{device="cam1", id="74"} 0
-cf_timestamp{device="cam1", id="74"} 1
+cf_timestamp{device="cam1", id="74"} 1740555164.508041
 core_to_camera{device="cam1", id="75"} 0
 camera_to_core{device="cam1", id="75"} 0
 core_to_infer{device="cam1", id="75"} 0
@@ -605,7 +605,7 @@ infer_to_ml{device="cam1", id="75"} 0
 ml_to_core{device="cam1", id="75"} 0
 core_to_alarm{device="cam1", id="75"} 0
 alarm_to_core{device="cam1", id="75"} 0
-cf_timestamp{device="cam1", id="75"} 1
+cf_timestamp{device="cam1", id="75"} 1740555167.463503
 core_to_camera{device="cam1", id="76"} 0
 camera_to_core{device="cam1", id="76"} 0
 core_to_infer{device="cam1", id="76"} 0
@@ -613,7 +613,7 @@ infer_to_ml{device="cam1", id="76"} 0
 ml_to_core{device="cam1", id="76"} 0
 core_to_alarm{device="cam1", id="76"} 0
 alarm_to_core{device="cam1", id="76"} 0
-cf_timestamp{device="cam1", id="76"} 1
+cf_timestamp{device="cam1", id="76"} 1740555169.649827
 core_to_camera{device="cam1", id="77"} 0
 camera_to_core{device="cam1", id="77"} 0
 core_to_infer{device="cam1", id="77"} 0
@@ -621,7 +621,7 @@ infer_to_ml{device="cam1", id="77"} 0
 ml_to_core{device="cam1", id="77"} 0
 core_to_alarm{device="cam1", id="77"} 0
 alarm_to_core{device="cam1", id="77"} 0
-cf_timestamp{device="cam1", id="77"} 1
+cf_timestamp{device="cam1", id="77"} 1740555171.637271
 core_to_camera{device="cam1", id="78"} 0
 camera_to_core{device="cam1", id="78"} 0
 core_to_infer{device="cam1", id="78"} 0
@@ -629,7 +629,7 @@ infer_to_ml{device="cam1", id="78"} 0
 ml_to_core{device="cam1", id="78"} 0
 core_to_alarm{device="cam1", id="78"} 0
 alarm_to_core{device="cam1", id="78"} 0
-cf_timestamp{device="cam1", id="78"} 1
+cf_timestamp{device="cam1", id="78"} 1740555174.080628
 core_to_camera{device="cam1", id="79"} 0
 camera_to_core{device="cam1", id="79"} 0
 core_to_infer{device="cam1", id="79"} 0
@@ -637,7 +637,7 @@ infer_to_ml{device="cam1", id="79"} 0
 ml_to_core{device="cam1", id="79"} 0
 core_to_alarm{device="cam1", id="79"} 0
 alarm_to_core{device="cam1", id="79"} 0
-cf_timestamp{device="cam1", id="79"} 1
+cf_timestamp{device="cam1", id="79"} 1740555176.678921
 core_to_camera{device="cam1", id="80"} 0
 camera_to_core{device="cam1", id="80"} 0
 core_to_infer{device="cam1", id="80"} 0
@@ -645,7 +645,7 @@ infer_to_ml{device="cam1", id="80"} 0
 ml_to_core{device="cam1", id="80"} 0
 core_to_alarm{device="cam1", id="80"} 0
 alarm_to_core{device="cam1", id="80"} 0
-cf_timestamp{device="cam1", id="80"} 1
+cf_timestamp{device="cam1", id="80"} 1740555180.410576
 core_to_camera{device="cam1", id="81"} 0
 camera_to_core{device="cam1", id="81"} 0
 core_to_infer{device="cam1", id="81"} 0
@@ -653,7 +653,7 @@ infer_to_ml{device="cam1", id="81"} 0
 ml_to_core{device="cam1", id="81"} 0
 core_to_alarm{device="cam1", id="81"} 0
 alarm_to_core{device="cam1", id="81"} 0
-cf_timestamp{device="cam1", id="81"} 1
+cf_timestamp{device="cam1", id="81"} 1740555182.829360
 core_to_camera{device="cam1", id="82"} 0
 camera_to_core{device="cam1", id="82"} 0
 core_to_infer{device="cam1", id="82"} 0
@@ -661,7 +661,7 @@ infer_to_ml{device="cam1", id="82"} 0
 ml_to_core{device="cam1", id="82"} 0
 core_to_alarm{device="cam1", id="82"} 0
 alarm_to_core{device="cam1", id="82"} 0
-cf_timestamp{device="cam1", id="82"} 1
+cf_timestamp{device="cam1", id="82"} 1740555184.907166
 core_to_camera{device="cam1", id="83"} 0
 camera_to_core{device="cam1", id="83"} 0
 core_to_infer{device="cam1", id="83"} 0
@@ -669,7 +669,7 @@ infer_to_ml{device="cam1", id="83"} 0
 ml_to_core{device="cam1", id="83"} 0
 core_to_alarm{device="cam1", id="83"} 0
 alarm_to_core{device="cam1", id="83"} 0
-cf_timestamp{device="cam1", id="83"} 1
+cf_timestamp{device="cam1", id="83"} 1740555186.915283
 core_to_camera{device="cam1", id="84"} 0
 camera_to_core{device="cam1", id="84"} 0
 core_to_infer{device="cam1", id="84"} 0
@@ -677,7 +677,7 @@ infer_to_ml{device="cam1", id="84"} 0
 ml_to_core{device="cam1", id="84"} 0
 core_to_alarm{device="cam1", id="84"} 0
 alarm_to_core{device="cam1", id="84"} 0
-cf_timestamp{device="cam1", id="84"} 1
+cf_timestamp{device="cam1", id="84"} 1740555190.844616
 core_to_camera{device="cam1", id="85"} 0
 camera_to_core{device="cam1", id="85"} 0
 core_to_infer{device="cam1", id="85"} 0
@@ -685,7 +685,7 @@ infer_to_ml{device="cam1", id="85"} 0
 ml_to_core{device="cam1", id="85"} 0
 core_to_alarm{device="cam1", id="85"} 0
 alarm_to_core{device="cam1", id="85"} 0
-cf_timestamp{device="cam1", id="85"} 1
+cf_timestamp{device="cam1", id="85"} 1740555193.106545
 core_to_camera{device="cam1", id="86"} 0
 camera_to_core{device="cam1", id="86"} 0
 core_to_infer{device="cam1", id="86"} 0
@@ -693,7 +693,7 @@ infer_to_ml{device="cam1", id="86"} 0
 ml_to_core{device="cam1", id="86"} 0
 core_to_alarm{device="cam1", id="86"} 0
 alarm_to_core{device="cam1", id="86"} 0
-cf_timestamp{device="cam1", id="86"} 1
+cf_timestamp{device="cam1", id="86"} 1740555195.801545
 core_to_camera{device="cam1", id="87"} 0
 camera_to_core{device="cam1", id="87"} 0
 core_to_infer{device="cam1", id="87"} 0
@@ -701,7 +701,7 @@ infer_to_ml{device="cam1", id="87"} 0
 ml_to_core{device="cam1", id="87"} 0
 core_to_alarm{device="cam1", id="87"} 0
 alarm_to_core{device="cam1", id="87"} 0
-cf_timestamp{device="cam1", id="87"} 1
+cf_timestamp{device="cam1", id="87"} 1740555197.977326
 core_to_camera{device="cam1", id="88"} 0
 camera_to_core{device="cam1", id="88"} 0
 core_to_infer{device="cam1", id="88"} 0
@@ -709,7 +709,7 @@ infer_to_ml{device="cam1", id="88"} 0
 ml_to_core{device="cam1", id="88"} 0
 core_to_alarm{device="cam1", id="88"} 0
 alarm_to_core{device="cam1", id="88"} 0
-cf_timestamp{device="cam1", id="88"} 1
+cf_timestamp{device="cam1", id="88"} 1740555200.629175
 core_to_camera{device="cam1", id="89"} 0
 camera_to_core{device="cam1", id="89"} 0
 core_to_infer{device="cam1", id="89"} 0
@@ -717,7 +717,7 @@ infer_to_ml{device="cam1", id="89"} 0
 ml_to_core{device="cam1", id="89"} 0
 core_to_alarm{device="cam1", id="89"} 0
 alarm_to_core{device="cam1", id="89"} 0
-cf_timestamp{device="cam1", id="89"} 1
+cf_timestamp{device="cam1", id="89"} 1740555203.335198
 core_to_camera{device="cam1", id="90"} 0
 camera_to_core{device="cam1", id="90"} 0
 core_to_infer{device="cam1", id="90"} 0
@@ -725,7 +725,7 @@ infer_to_ml{device="cam1", id="90"} 0
 ml_to_core{device="cam1", id="90"} 0
 core_to_alarm{device="cam1", id="90"} 0
 alarm_to_core{device="cam1", id="90"} 0
-cf_timestamp{device="cam1", id="90"} 1
+cf_timestamp{device="cam1", id="90"} 1740555206.076883
 core_to_camera{device="cam1", id="91"} 0
 camera_to_core{device="cam1", id="91"} 0
 core_to_infer{device="cam1", id="91"} 0
@@ -733,7 +733,7 @@ infer_to_ml{device="cam1", id="91"} 0
 ml_to_core{device="cam1", id="91"} 0
 core_to_alarm{device="cam1", id="91"} 0
 alarm_to_core{device="cam1", id="91"} 0
-cf_timestamp{device="cam1", id="91"} 1
+cf_timestamp{device="cam1", id="91"} 1740555208.442995
 core_to_camera{device="cam1", id="92"} 0
 camera_to_core{device="cam1", id="92"} 0
 core_to_infer{device="cam1", id="92"} 0
@@ -741,7 +741,7 @@ infer_to_ml{device="cam1", id="92"} 0
 ml_to_core{device="cam1", id="92"} 0
 core_to_alarm{device="cam1", id="92"} 0
 alarm_to_core{device="cam1", id="92"} 0
-cf_timestamp{device="cam1", id="92"} 1
+cf_timestamp{device="cam1", id="92"} 1740555210.543627
 core_to_camera{device="cam1", id="93"} 0
 camera_to_core{device="cam1", id="93"} 0
 core_to_infer{device="cam1", id="93"} 0
@@ -749,7 +749,7 @@ infer_to_ml{device="cam1", id="93"} 0
 ml_to_core{device="cam1", id="93"} 0
 core_to_alarm{device="cam1", id="93"} 0
 alarm_to_core{device="cam1", id="93"} 0
-cf_timestamp{device="cam1", id="93"} 1
+cf_timestamp{device="cam1", id="93"} 1740555212.708034
 core_to_camera{device="cam1", id="94"} 0
 camera_to_core{device="cam1", id="94"} 0
 core_to_infer{device="cam1", id="94"} 0
@@ -757,7 +757,7 @@ infer_to_ml{device="cam1", id="94"} 0
 ml_to_core{device="cam1", id="94"} 0
 core_to_alarm{device="cam1", id="94"} 0
 alarm_to_core{device="cam1", id="94"} 0
-cf_timestamp{device="cam1", id="94"} 1
+cf_timestamp{device="cam1", id="94"} 1740555214.856582
 core_to_camera{device="cam1", id="95"} 0
 camera_to_core{device="cam1", id="95"} 0
 core_to_infer{device="cam1", id="95"} 0
@@ -765,7 +765,7 @@ infer_to_ml{device="cam1", id="95"} 0
 ml_to_core{device="cam1", id="95"} 0
 core_to_alarm{device="cam1", id="95"} 0
 alarm_to_core{device="cam1", id="95"} 0
-cf_timestamp{device="cam1", id="95"} 1
+cf_timestamp{device="cam1", id="95"} 1740555216.887814
 core_to_camera{device="cam1", id="96"} 0
 camera_to_core{device="cam1", id="96"} 0
 core_to_infer{device="cam1", id="96"} 0
@@ -773,7 +773,7 @@ infer_to_ml{device="cam1", id="96"} 0
 ml_to_core{device="cam1", id="96"} 0
 core_to_alarm{device="cam1", id="96"} 0
 alarm_to_core{device="cam1", id="96"} 0
-cf_timestamp{device="cam1", id="96"} 1
+cf_timestamp{device="cam1", id="96"} 1740555219.088917
 core_to_camera{device="cam1", id="97"} 0
 camera_to_core{device="cam1", id="97"} 0
 core_to_infer{device="cam1", id="97"} 0
@@ -781,7 +781,7 @@ infer_to_ml{device="cam1", id="97"} 0
 ml_to_core{device="cam1", id="97"} 0
 core_to_alarm{device="cam1", id="97"} 0
 alarm_to_core{device="cam1", id="97"} 0
-cf_timestamp{device="cam1", id="97"} 1
+cf_timestamp{device="cam1", id="97"} 1740555221.919631
 core_to_camera{device="cam1", id="98"} 0
 camera_to_core{device="cam1", id="98"} 0
 core_to_infer{device="cam1", id="98"} 0
@@ -789,7 +789,7 @@ infer_to_ml{device="cam1", id="98"} 0
 ml_to_core{device="cam1", id="98"} 0
 core_to_alarm{device="cam1", id="98"} 0
 alarm_to_core{device="cam1", id="98"} 0
-cf_timestamp{device="cam1", id="98"} 1
+cf_timestamp{device="cam1", id="98"} 1740555224.818244
 core_to_camera{device="cam1", id="99"} 0
 camera_to_core{device="cam1", id="99"} 0
 core_to_infer{device="cam1", id="99"} 0
@@ -797,7 +797,7 @@ infer_to_ml{device="cam1", id="99"} 0
 ml_to_core{device="cam1", id="99"} 0
 core_to_alarm{device="cam1", id="99"} 0
 alarm_to_core{device="cam1", id="99"} 0
-cf_timestamp{device="cam1", id="99"} 1
+cf_timestamp{device="cam1", id="99"} 1740555228.448380
 core_to_camera{device="cam2", id="0"} 22
 camera_to_core{device="cam2", id="0"} 22
 core_to_infer{device="cam2", id="0"} 22
@@ -805,7 +805,7 @@ infer_to_ml{device="cam2", id="0"} 22
 ml_to_core{device="cam2", id="0"} 21
 core_to_alarm{device="cam2", id="0"} 21
 alarm_to_core{device="cam2", id="0"} 21
-cf_timestamp{device="cam2", id="0"} 1
+cf_timestamp{device="cam2", id="0"} 1741322542.763215
 core_to_camera{device="cam2", id="1"} 20
 camera_to_core{device="cam2", id="1"} 20
 core_to_infer{device="cam2", id="1"} 20
@@ -813,7 +813,7 @@ infer_to_ml{device="cam2", id="1"} 20
 ml_to_core{device="cam2", id="1"} 20
 core_to_alarm{device="cam2", id="1"} 20
 alarm_to_core{device="cam2", id="1"} 20
-cf_timestamp{device="cam2", id="1"} 1
+cf_timestamp{device="cam2", id="1"} 1741322544.868677
 core_to_camera{device="cam2", id="2"} 20
 camera_to_core{device="cam2", id="2"} 20
 core_to_infer{device="cam2", id="2"} 20
@@ -821,7 +821,7 @@ infer_to_ml{device="cam2", id="2"} 20
 ml_to_core{device="cam2", id="2"} 21
 core_to_alarm{device="cam2", id="2"} 21
 alarm_to_core{device="cam2", id="2"} 21
-cf_timestamp{device="cam2", id="2"} 1
+cf_timestamp{device="cam2", id="2"} 1741322546.999328
 core_to_camera{device="cam2", id="3"} 19
 camera_to_core{device="cam2", id="3"} 19
 core_to_infer{device="cam2", id="3"} 18
@@ -829,7 +829,7 @@ infer_to_ml{device="cam2", id="3"} 18
 ml_to_core{device="cam2", id="3"} 18
 core_to_alarm{device="cam2", id="3"} 18
 alarm_to_core{device="cam2", id="3"} 18
-cf_timestamp{device="cam2", id="3"} 1
+cf_timestamp{device="cam2", id="3"} 1741322549.139163
 core_to_camera{device="cam2", id="4"} 21
 camera_to_core{device="cam2", id="4"} 20
 core_to_infer{device="cam2", id="4"} 21
@@ -837,7 +837,7 @@ infer_to_ml{device="cam2", id="4"} 21
 ml_to_core{device="cam2", id="4"} 21
 core_to_alarm{device="cam2", id="4"} 21
 alarm_to_core{device="cam2", id="4"} 21
-cf_timestamp{device="cam2", id="4"} 1
+cf_timestamp{device="cam2", id="4"} 1741322551.200120
 core_to_camera{device="cam2", id="5"} 21
 camera_to_core{device="cam2", id="5"} 22
 core_to_infer{device="cam2", id="5"} 22
@@ -845,7 +845,7 @@ infer_to_ml{device="cam2", id="5"} 22
 ml_to_core{device="cam2", id="5"} 22
 core_to_alarm{device="cam2", id="5"} 22
 alarm_to_core{device="cam2", id="5"} 21
-cf_timestamp{device="cam2", id="5"} 1
+cf_timestamp{device="cam2", id="5"} 1741322553.370459
 core_to_camera{device="cam2", id="6"} 18
 camera_to_core{device="cam2", id="6"} 18
 core_to_infer{device="cam2", id="6"} 18
@@ -853,7 +853,7 @@ infer_to_ml{device="cam2", id="6"} 18
 ml_to_core{device="cam2", id="6"} 18
 core_to_alarm{device="cam2", id="6"} 18
 alarm_to_core{device="cam2", id="6"} 19
-cf_timestamp{device="cam2", id="6"} 1
+cf_timestamp{device="cam2", id="6"} 1741322555.646103
 core_to_camera{device="cam2", id="7"} 20
 camera_to_core{device="cam2", id="7"} 20
 core_to_infer{device="cam2", id="7"} 20
@@ -861,7 +861,7 @@ infer_to_ml{device="cam2", id="7"} 20
 ml_to_core{device="cam2", id="7"} 19
 core_to_alarm{device="cam2", id="7"} 19
 alarm_to_core{device="cam2", id="7"} 19
-cf_timestamp{device="cam2", id="7"} 1
+cf_timestamp{device="cam2", id="7"} 1741322557.788591
 core_to_camera{device="cam2", id="8"} 21
 camera_to_core{device="cam2", id="8"} 21
 core_to_infer{device="cam2", id="8"} 21
@@ -869,7 +869,7 @@ infer_to_ml{device="cam2", id="8"} 21
 ml_to_core{device="cam2", id="8"} 21
 core_to_alarm{device="cam2", id="8"} 21
 alarm_to_core{device="cam2", id="8"} 21
-cf_timestamp{device="cam2", id="8"} 1
+cf_timestamp{device="cam2", id="8"} 1741322559.863827
 core_to_camera{device="cam2", id="9"} 19
 camera_to_core{device="cam2", id="9"} 19
 core_to_infer{device="cam2", id="9"} 18
@@ -877,7 +877,7 @@ infer_to_ml{device="cam2", id="9"} 18
 ml_to_core{device="cam2", id="9"} 19
 core_to_alarm{device="cam2", id="9"} 19
 alarm_to_core{device="cam2", id="9"} 19
-cf_timestamp{device="cam2", id="9"} 1
+cf_timestamp{device="cam2", id="9"} 1741322562.069675
 core_to_camera{device="cam2", id="10"} 18
 camera_to_core{device="cam2", id="10"} 18
 core_to_infer{device="cam2", id="10"} 19
@@ -885,7 +885,7 @@ infer_to_ml{device="cam2", id="10"} 19
 ml_to_core{device="cam2", id="10"} 19
 core_to_alarm{device="cam2", id="10"} 19
 alarm_to_core{device="cam2", id="10"} 19
-cf_timestamp{device="cam2", id="10"} 1
+cf_timestamp{device="cam2", id="10"} 1741322564.143447
 core_to_camera{device="cam2", id="11"} 22
 camera_to_core{device="cam2", id="11"} 22
 core_to_infer{device="cam2", id="11"} 21
@@ -893,7 +893,7 @@ infer_to_ml{device="cam2", id="11"} 21
 ml_to_core{device="cam2", id="11"} 21
 core_to_alarm{device="cam2", id="11"} 21
 alarm_to_core{device="cam2", id="11"} 21
-cf_timestamp{device="cam2", id="11"} 1
+cf_timestamp{device="cam2", id="11"} 1741322566.112280
 core_to_camera{device="cam2", id="12"} 20
 camera_to_core{device="cam2", id="12"} 20
 core_to_infer{device="cam2", id="12"} 21
@@ -901,7 +901,7 @@ infer_to_ml{device="cam2", id="12"} 21
 ml_to_core{device="cam2", id="12"} 20
 core_to_alarm{device="cam2", id="12"} 20
 alarm_to_core{device="cam2", id="12"} 20
-cf_timestamp{device="cam2", id="12"} 1
+cf_timestamp{device="cam2", id="12"} 1741322568.194073
 core_to_camera{device="cam2", id="13"} 20
 camera_to_core{device="cam2", id="13"} 20
 core_to_infer{device="cam2", id="13"} 20
@@ -909,7 +909,7 @@ infer_to_ml{device="cam2", id="13"} 20
 ml_to_core{device="cam2", id="13"} 21
 core_to_alarm{device="cam2", id="13"} 21
 alarm_to_core{device="cam2", id="13"} 21
-cf_timestamp{device="cam2", id="13"} 1
+cf_timestamp{device="cam2", id="13"} 1741322570.264132
 core_to_camera{device="cam2", id="14"} 21
 camera_to_core{device="cam2", id="14"} 21
 core_to_infer{device="cam2", id="14"} 20
@@ -917,7 +917,7 @@ infer_to_ml{device="cam2", id="14"} 20
 ml_to_core{device="cam2", id="14"} 20
 core_to_alarm{device="cam2", id="14"} 20
 alarm_to_core{device="cam2", id="14"} 20
-cf_timestamp{device="cam2", id="14"} 1
+cf_timestamp{device="cam2", id="14"} 1741322572.373189
 core_to_camera{device="cam2", id="15"} 18
 camera_to_core{device="cam2", id="15"} 18
 core_to_infer{device="cam2", id="15"} 19
@@ -925,7 +925,7 @@ infer_to_ml{device="cam2", id="15"} 19
 ml_to_core{device="cam2", id="15"} 19
 core_to_alarm{device="cam2", id="15"} 19
 alarm_to_core{device="cam2", id="15"} 19
-cf_timestamp{device="cam2", id="15"} 1
+cf_timestamp{device="cam2", id="15"} 1741322574.632530
 core_to_camera{device="cam2", id="16"} 20
 camera_to_core{device="cam2", id="16"} 20
 core_to_infer{device="cam2", id="16"} 20
@@ -933,7 +933,7 @@ infer_to_ml{device="cam2", id="16"} 20
 ml_to_core{device="cam2", id="16"} 20
 core_to_alarm{device="cam2", id="16"} 20
 alarm_to_core{device="cam2", id="16"} 19
-cf_timestamp{device="cam2", id="16"} 1
+cf_timestamp{device="cam2", id="16"} 1741322576.716566
 core_to_camera{device="cam2", id="17"} 21
 camera_to_core{device="cam2", id="17"} 21
 core_to_infer{device="cam2", id="17"} 21
@@ -941,7 +941,7 @@ infer_to_ml{device="cam2", id="17"} 21
 ml_to_core{device="cam2", id="17"} 21
 core_to_alarm{device="cam2", id="17"} 21
 alarm_to_core{device="cam2", id="17"} 21
-cf_timestamp{device="cam2", id="17"} 1
+cf_timestamp{device="cam2", id="17"} 1741322578.837431
 core_to_camera{device="cam2", id="18"} 19
 camera_to_core{device="cam2", id="18"} 19
 core_to_infer{device="cam2", id="18"} 19
@@ -949,7 +949,7 @@ infer_to_ml{device="cam2", id="18"} 19
 ml_to_core{device="cam2", id="18"} 19
 core_to_alarm{device="cam2", id="18"} 19
 alarm_to_core{device="cam2", id="18"} 19
-cf_timestamp{device="cam2", id="18"} 1
+cf_timestamp{device="cam2", id="18"} 1741322580.994854
 core_to_camera{device="cam2", id="19"} 20
 camera_to_core{device="cam2", id="19"} 20
 core_to_infer{device="cam2", id="19"} 20
@@ -957,7 +957,7 @@ infer_to_ml{device="cam2", id="19"} 20
 ml_to_core{device="cam2", id="19"} 19
 core_to_alarm{device="cam2", id="19"} 19
 alarm_to_core{device="cam2", id="19"} 20
-cf_timestamp{device="cam2", id="19"} 1
+cf_timestamp{device="cam2", id="19"} 1741322583.066587
 core_to_camera{device="cam2", id="20"} 19
 camera_to_core{device="cam2", id="20"} 19
 core_to_infer{device="cam2", id="20"} 19
@@ -965,7 +965,7 @@ infer_to_ml{device="cam2", id="20"} 19
 ml_to_core{device="cam2", id="20"} 19
 core_to_alarm{device="cam2", id="20"} 19
 alarm_to_core{device="cam2", id="20"} 19
-cf_timestamp{device="cam2", id="20"} 1
+cf_timestamp{device="cam2", id="20"} 1741322585.170317
 core_to_camera{device="cam2", id="21"} 21
 camera_to_core{device="cam2", id="21"} 20
 core_to_infer{device="cam2", id="21"} 20
@@ -973,7 +973,7 @@ infer_to_ml{device="cam2", id="21"} 20
 ml_to_core{device="cam2", id="21"} 21
 core_to_alarm{device="cam2", id="21"} 21
 alarm_to_core{device="cam2", id="21"} 21
-cf_timestamp{device="cam2", id="21"} 1
+cf_timestamp{device="cam2", id="21"} 1741322587.158077
 core_to_camera{device="cam2", id="22"} 20
 camera_to_core{device="cam2", id="22"} 21
 core_to_infer{device="cam2", id="22"} 20
@@ -981,7 +981,7 @@ infer_to_ml{device="cam2", id="22"} 20
 ml_to_core{device="cam2", id="22"} 20
 core_to_alarm{device="cam2", id="22"} 20
 alarm_to_core{device="cam2", id="22"} 20
-cf_timestamp{device="cam2", id="22"} 1
+cf_timestamp{device="cam2", id="22"} 1741322589.190688
 core_to_camera{device="cam2", id="23"} 20
 camera_to_core{device="cam2", id="23"} 20
 core_to_infer{device="cam2", id="23"} 21
@@ -989,7 +989,7 @@ infer_to_ml{device="cam2", id="23"} 21
 ml_to_core{device="cam2", id="23"} 21
 core_to_alarm{device="cam2", id="23"} 21
 alarm_to_core{device="cam2", id="23"} 21
-cf_timestamp{device="cam2", id="23"} 1
+cf_timestamp{device="cam2", id="23"} 1741322591.234804
 core_to_camera{device="cam2", id="24"} 18
 camera_to_core{device="cam2", id="24"} 18
 core_to_infer{device="cam2", id="24"} 18
@@ -997,7 +997,7 @@ infer_to_ml{device="cam2", id="24"} 18
 ml_to_core{device="cam2", id="24"} 18
 core_to_alarm{device="cam2", id="24"} 18
 alarm_to_core{device="cam2", id="24"} 18
-cf_timestamp{device="cam2", id="24"} 1
+cf_timestamp{device="cam2", id="24"} 1741322593.463720
 core_to_camera{device="cam2", id="25"} 21
 camera_to_core{device="cam2", id="25"} 21
 core_to_infer{device="cam2", id="25"} 21
@@ -1005,7 +1005,7 @@ infer_to_ml{device="cam2", id="25"} 21
 ml_to_core{device="cam2", id="25"} 21
 core_to_alarm{device="cam2", id="25"} 21
 alarm_to_core{device="cam2", id="25"} 21
-cf_timestamp{device="cam2", id="25"} 1
+cf_timestamp{device="cam2", id="25"} 1741322595.406424
 core_to_camera{device="cam2", id="26"} 20
 camera_to_core{device="cam2", id="26"} 20
 core_to_infer{device="cam2", id="26"} 20
@@ -1013,7 +1013,7 @@ infer_to_ml{device="cam2", id="26"} 20
 ml_to_core{device="cam2", id="26"} 19
 core_to_alarm{device="cam2", id="26"} 19
 alarm_to_core{device="cam2", id="26"} 19
-cf_timestamp{device="cam2", id="26"} 1
+cf_timestamp{device="cam2", id="26"} 1741322597.508699
 core_to_camera{device="cam2", id="27"} 20
 camera_to_core{device="cam2", id="27"} 20
 core_to_infer{device="cam2", id="27"} 20
@@ -1021,7 +1021,7 @@ infer_to_ml{device="cam2", id="27"} 20
 ml_to_core{device="cam2", id="27"} 21
 core_to_alarm{device="cam2", id="27"} 21
 alarm_to_core{device="cam2", id="27"} 20
-cf_timestamp{device="cam2", id="27"} 1
+cf_timestamp{device="cam2", id="27"} 1741322599.517209
 core_to_camera{device="cam2", id="28"} 21
 camera_to_core{device="cam2", id="28"} 21
 core_to_infer{device="cam2", id="28"} 21
@@ -1029,7 +1029,7 @@ infer_to_ml{device="cam2", id="28"} 21
 ml_to_core{device="cam2", id="28"} 20
 core_to_alarm{device="cam2", id="28"} 20
 alarm_to_core{device="cam2", id="28"} 21
-cf_timestamp{device="cam2", id="28"} 1
+cf_timestamp{device="cam2", id="28"} 1741322601.612967
 core_to_camera{device="cam2", id="29"} 19
 camera_to_core{device="cam2", id="29"} 19
 core_to_infer{device="cam2", id="29"} 19
@@ -1037,7 +1037,7 @@ infer_to_ml{device="cam2", id="29"} 19
 ml_to_core{device="cam2", id="29"} 20
 core_to_alarm{device="cam2", id="29"} 20
 alarm_to_core{device="cam2", id="29"} 20
-cf_timestamp{device="cam2", id="29"} 1
+cf_timestamp{device="cam2", id="29"} 1741322603.717016
 core_to_camera{device="cam2", id="30"} 21
 camera_to_core{device="cam2", id="30"} 20
 core_to_infer{device="cam2", id="30"} 20
@@ -1045,7 +1045,7 @@ infer_to_ml{device="cam2", id="30"} 20
 ml_to_core{device="cam2", id="30"} 20
 core_to_alarm{device="cam2", id="30"} 20
 alarm_to_core{device="cam2", id="30"} 20
-cf_timestamp{device="cam2", id="30"} 1
+cf_timestamp{device="cam2", id="30"} 1741322605.824812
 core_to_camera{device="cam2", id="31"} 19
 camera_to_core{device="cam2", id="31"} 19
 core_to_infer{device="cam2", id="31"} 19
@@ -1053,7 +1053,7 @@ infer_to_ml{device="cam2", id="31"} 19
 ml_to_core{device="cam2", id="31"} 19
 core_to_alarm{device="cam2", id="31"} 19
 alarm_to_core{device="cam2", id="31"} 19
-cf_timestamp{device="cam2", id="31"} 1
+cf_timestamp{device="cam2", id="31"} 1741322607.966718
 core_to_camera{device="cam2", id="32"} 21
 camera_to_core{device="cam2", id="32"} 22
 core_to_infer{device="cam2", id="32"} 22
@@ -1061,7 +1061,7 @@ infer_to_ml{device="cam2", id="32"} 22
 ml_to_core{device="cam2", id="32"} 21
 core_to_alarm{device="cam2", id="32"} 21
 alarm_to_core{device="cam2", id="32"} 21
-cf_timestamp{device="cam2", id="32"} 1
+cf_timestamp{device="cam2", id="32"} 1741322610.054753
 core_to_camera{device="cam2", id="33"} 17
 camera_to_core{device="cam2", id="33"} 17
 core_to_infer{device="cam2", id="33"} 17
@@ -1069,7 +1069,7 @@ infer_to_ml{device="cam2", id="33"} 17
 ml_to_core{device="cam2", id="33"} 18
 core_to_alarm{device="cam2", id="33"} 18
 alarm_to_core{device="cam2", id="33"} 18
-cf_timestamp{device="cam2", id="33"} 1
+cf_timestamp{device="cam2", id="33"} 1741322612.192287
 core_to_camera{device="cam2", id="34"} 22
 camera_to_core{device="cam2", id="34"} 22
 core_to_infer{device="cam2", id="34"} 22
@@ -1077,7 +1077,7 @@ infer_to_ml{device="cam2", id="34"} 22
 ml_to_core{device="cam2", id="34"} 21
 core_to_alarm{device="cam2", id="34"} 21
 alarm_to_core{device="cam2", id="34"} 21
-cf_timestamp{device="cam2", id="34"} 1
+cf_timestamp{device="cam2", id="34"} 1741322614.162323
 core_to_camera{device="cam2", id="35"} 20
 camera_to_core{device="cam2", id="35"} 20
 core_to_infer{device="cam2", id="35"} 20
@@ -1085,7 +1085,7 @@ infer_to_ml{device="cam2", id="35"} 20
 ml_to_core{device="cam2", id="35"} 20
 core_to_alarm{device="cam2", id="35"} 20
 alarm_to_core{device="cam2", id="35"} 20
-cf_timestamp{device="cam2", id="35"} 1
+cf_timestamp{device="cam2", id="35"} 1741322616.169934
 core_to_camera{device="cam2", id="36"} 19
 camera_to_core{device="cam2", id="36"} 19
 core_to_infer{device="cam2", id="36"} 19
@@ -1093,7 +1093,7 @@ infer_to_ml{device="cam2", id="36"} 19
 ml_to_core{device="cam2", id="36"} 20
 core_to_alarm{device="cam2", id="36"} 20
 alarm_to_core{device="cam2", id="36"} 20
-cf_timestamp{device="cam2", id="36"} 1
+cf_timestamp{device="cam2", id="36"} 1741322618.295518
 core_to_camera{device="cam2", id="37"} 21
 camera_to_core{device="cam2", id="37"} 21
 core_to_infer{device="cam2", id="37"} 21
@@ -1101,7 +1101,7 @@ infer_to_ml{device="cam2", id="37"} 21
 ml_to_core{device="cam2", id="37"} 21
 core_to_alarm{device="cam2", id="37"} 21
 alarm_to_core{device="cam2", id="37"} 21
-cf_timestamp{device="cam2", id="37"} 1
+cf_timestamp{device="cam2", id="37"} 1741322620.356185
 core_to_camera{device="cam2", id="38"} 20
 camera_to_core{device="cam2", id="38"} 20
 core_to_infer{device="cam2", id="38"} 19
@@ -1109,7 +1109,7 @@ infer_to_ml{device="cam2", id="38"} 19
 ml_to_core{device="cam2", id="38"} 19
 core_to_alarm{device="cam2", id="38"} 19
 alarm_to_core{device="cam2", id="38"} 19
-cf_timestamp{device="cam2", id="38"} 1
+cf_timestamp{device="cam2", id="38"} 1741322622.521137
 core_to_camera{device="cam2", id="39"} 19
 camera_to_core{device="cam2", id="39"} 19
 core_to_infer{device="cam2", id="39"} 19
@@ -1117,7 +1117,7 @@ infer_to_ml{device="cam2", id="39"} 19
 ml_to_core{device="cam2", id="39"} 19
 core_to_alarm{device="cam2", id="39"} 19
 alarm_to_core{device="cam2", id="39"} 19
-cf_timestamp{device="cam2", id="39"} 1
+cf_timestamp{device="cam2", id="39"} 1741322624.594013
 core_to_camera{device="cam2", id="40"} 19
 camera_to_core{device="cam2", id="40"} 19
 core_to_infer{device="cam2", id="40"} 20
@@ -1125,7 +1125,7 @@ infer_to_ml{device="cam2", id="40"} 20
 ml_to_core{device="cam2", id="40"} 20
 core_to_alarm{device="cam2", id="40"} 20
 alarm_to_core{device="cam2", id="40"} 20
-cf_timestamp{device="cam2", id="40"} 1
+cf_timestamp{device="cam2", id="40"} 1741322626.601211
 core_to_camera{device="cam2", id="41"} 22
 camera_to_core{device="cam2", id="41"} 22
 core_to_infer{device="cam2", id="41"} 22
@@ -1133,7 +1133,7 @@ infer_to_ml{device="cam2", id="41"} 22
 ml_to_core{device="cam2", id="41"} 22
 core_to_alarm{device="cam2", id="41"} 22
 alarm_to_core{device="cam2", id="41"} 22
-cf_timestamp{device="cam2", id="41"} 1
+cf_timestamp{device="cam2", id="41"} 1741322628.598444
 core_to_camera{device="cam2", id="42"} 20
 camera_to_core{device="cam2", id="42"} 20
 core_to_infer{device="cam2", id="42"} 20
@@ -1141,7 +1141,7 @@ infer_to_ml{device="cam2", id="42"} 20
 ml_to_core{device="cam2", id="42"} 19
 core_to_alarm{device="cam2", id="42"} 19
 alarm_to_core{device="cam2", id="42"} 19
-cf_timestamp{device="cam2", id="42"} 1
+cf_timestamp{device="cam2", id="42"} 1741322630.779640
 core_to_camera{device="cam2", id="43"} 19
 camera_to_core{device="cam2", id="43"} 19
 core_to_infer{device="cam2", id="43"} 19
@@ -1149,7 +1149,7 @@ infer_to_ml{device="cam2", id="43"} 19
 ml_to_core{device="cam2", id="43"} 20
 core_to_alarm{device="cam2", id="43"} 20
 alarm_to_core{device="cam2", id="43"} 20
-cf_timestamp{device="cam2", id="43"} 1
+cf_timestamp{device="cam2", id="43"} 1741322632.932615
 core_to_camera{device="cam2", id="44"} 20
 camera_to_core{device="cam2", id="44"} 20
 core_to_infer{device="cam2", id="44"} 20
@@ -1157,7 +1157,7 @@ infer_to_ml{device="cam2", id="44"} 20
 ml_to_core{device="cam2", id="44"} 20
 core_to_alarm{device="cam2", id="44"} 20
 alarm_to_core{device="cam2", id="44"} 19
-cf_timestamp{device="cam2", id="44"} 1
+cf_timestamp{device="cam2", id="44"} 1741322635.057906
 core_to_camera{device="cam2", id="45"} 21
 camera_to_core{device="cam2", id="45"} 21
 core_to_infer{device="cam2", id="45"} 21
@@ -1165,7 +1165,7 @@ infer_to_ml{device="cam2", id="45"} 21
 ml_to_core{device="cam2", id="45"} 20
 core_to_alarm{device="cam2", id="45"} 20
 alarm_to_core{device="cam2", id="45"} 21
-cf_timestamp{device="cam2", id="45"} 1
+cf_timestamp{device="cam2", id="45"} 1741322637.147539
 core_to_camera{device="cam2", id="46"} 18
 camera_to_core{device="cam2", id="46"} 17
 core_to_infer{device="cam2", id="46"} 17
@@ -1173,7 +1173,7 @@ infer_to_ml{device="cam2", id="46"} 17
 ml_to_core{device="cam2", id="46"} 18
 core_to_alarm{device="cam2", id="46"} 18
 alarm_to_core{device="cam2", id="46"} 18
-cf_timestamp{device="cam2", id="46"} 1
+cf_timestamp{device="cam2", id="46"} 1741322639.275384
 core_to_camera{device="cam2", id="47"} 20
 camera_to_core{device="cam2", id="47"} 21
 core_to_infer{device="cam2", id="47"} 21
@@ -1181,7 +1181,7 @@ infer_to_ml{device="cam2", id="47"} 21
 ml_to_core{device="cam2", id="47"} 21
 core_to_alarm{device="cam2", id="47"} 21
 alarm_to_core{device="cam2", id="47"} 21
-cf_timestamp{device="cam2", id="47"} 1
+cf_timestamp{device="cam2", id="47"} 1741322641.241733
 core_to_camera{device="cam2", id="48"} 19
 camera_to_core{device="cam2", id="48"} 19
 core_to_infer{device="cam2", id="48"} 19
@@ -1189,7 +1189,7 @@ infer_to_ml{device="cam2", id="48"} 19
 ml_to_core{device="cam2", id="48"} 19
 core_to_alarm{device="cam2", id="48"} 19
 alarm_to_core{device="cam2", id="48"} 19
-cf_timestamp{device="cam2", id="48"} 1
+cf_timestamp{device="cam2", id="48"} 1741322643.316587
 core_to_camera{device="cam2", id="49"} 23
 camera_to_core{device="cam2", id="49"} 23
 core_to_infer{device="cam2", id="49"} 23
@@ -1197,7 +1197,7 @@ infer_to_ml{device="cam2", id="49"} 23
 ml_to_core{device="cam2", id="49"} 23
 core_to_alarm{device="cam2", id="49"} 23
 alarm_to_core{device="cam2", id="49"} 23
-cf_timestamp{device="cam2", id="49"} 1
+cf_timestamp{device="cam2", id="49"} 1741322645.290520
 core_to_camera{device="cam2", id="50"} 17
 camera_to_core{device="cam2", id="50"} 17
 core_to_infer{device="cam2", id="50"} 17
@@ -1205,7 +1205,7 @@ infer_to_ml{device="cam2", id="50"} 17
 ml_to_core{device="cam2", id="50"} 17
 core_to_alarm{device="cam2", id="50"} 17
 alarm_to_core{device="cam2", id="50"} 17
-cf_timestamp{device="cam2", id="50"} 1
+cf_timestamp{device="cam2", id="50"} 1741322647.484993
 core_to_camera{device="cam2", id="51"} 22
 camera_to_core{device="cam2", id="51"} 22
 core_to_infer{device="cam2", id="51"} 22
@@ -1213,7 +1213,7 @@ infer_to_ml{device="cam2", id="51"} 22
 ml_to_core{device="cam2", id="51"} 22
 core_to_alarm{device="cam2", id="51"} 22
 alarm_to_core{device="cam2", id="51"} 22
-cf_timestamp{device="cam2", id="51"} 1
+cf_timestamp{device="cam2", id="51"} 1741322649.439792
 core_to_camera{device="cam2", id="52"} 19
 camera_to_core{device="cam2", id="52"} 19
 core_to_infer{device="cam2", id="52"} 19
@@ -1221,7 +1221,7 @@ infer_to_ml{device="cam2", id="52"} 19
 ml_to_core{device="cam2", id="52"} 19
 core_to_alarm{device="cam2", id="52"} 19
 alarm_to_core{device="cam2", id="52"} 19
-cf_timestamp{device="cam2", id="52"} 1
+cf_timestamp{device="cam2", id="52"} 1741322651.538926
 core_to_camera{device="cam2", id="53"} 22
 camera_to_core{device="cam2", id="53"} 22
 core_to_infer{device="cam2", id="53"} 22
@@ -1229,7 +1229,7 @@ infer_to_ml{device="cam2", id="53"} 22
 ml_to_core{device="cam2", id="53"} 21
 core_to_alarm{device="cam2", id="53"} 21
 alarm_to_core{device="cam2", id="53"} 21
-cf_timestamp{device="cam2", id="53"} 1
+cf_timestamp{device="cam2", id="53"} 1741322653.576333
 core_to_camera{device="cam2", id="54"} 19
 camera_to_core{device="cam2", id="54"} 19
 core_to_infer{device="cam2", id="54"} 19
@@ -1237,7 +1237,7 @@ infer_to_ml{device="cam2", id="54"} 19
 ml_to_core{device="cam2", id="54"} 20
 core_to_alarm{device="cam2", id="54"} 20
 alarm_to_core{device="cam2", id="54"} 20
-cf_timestamp{device="cam2", id="54"} 1
+cf_timestamp{device="cam2", id="54"} 1741322655.788544
 core_to_camera{device="cam2", id="55"} 20
 camera_to_core{device="cam2", id="55"} 20
 core_to_infer{device="cam2", id="55"} 20
@@ -1245,7 +1245,7 @@ infer_to_ml{device="cam2", id="55"} 20
 ml_to_core{device="cam2", id="55"} 19
 core_to_alarm{device="cam2", id="55"} 19
 alarm_to_core{device="cam2", id="55"} 19
-cf_timestamp{device="cam2", id="55"} 1
+cf_timestamp{device="cam2", id="55"} 1741322657.924700
 core_to_camera{device="cam2", id="56"} 18
 camera_to_core{device="cam2", id="56"} 18
 core_to_infer{device="cam2", id="56"} 18
@@ -1253,7 +1253,7 @@ infer_to_ml{device="cam2", id="56"} 18
 ml_to_core{device="cam2", id="56"} 19
 core_to_alarm{device="cam2", id="56"} 19
 alarm_to_core{device="cam2", id="56"} 19
-cf_timestamp{device="cam2", id="56"} 1
+cf_timestamp{device="cam2", id="56"} 1741322660.020129
 core_to_camera{device="cam2", id="57"} 21
 camera_to_core{device="cam2", id="57"} 21
 core_to_infer{device="cam2", id="57"} 21
@@ -1261,7 +1261,7 @@ infer_to_ml{device="cam2", id="57"} 21
 ml_to_core{device="cam2", id="57"} 21
 core_to_alarm{device="cam2", id="57"} 21
 alarm_to_core{device="cam2", id="57"} 21
-cf_timestamp{device="cam2", id="57"} 1
+cf_timestamp{device="cam2", id="57"} 1741322662.041078
 core_to_camera{device="cam2", id="58"} 20
 camera_to_core{device="cam2", id="58"} 20
 core_to_infer{device="cam2", id="58"} 20
@@ -1269,7 +1269,7 @@ infer_to_ml{device="cam2", id="58"} 20
 ml_to_core{device="cam2", id="58"} 19
 core_to_alarm{device="cam2", id="58"} 19
 alarm_to_core{device="cam2", id="58"} 19
-cf_timestamp{device="cam2", id="58"} 1
+cf_timestamp{device="cam2", id="58"} 1741322664.075268
 core_to_camera{device="cam2", id="59"} 21
 camera_to_core{device="cam2", id="59"} 21
 core_to_infer{device="cam2", id="59"} 21
@@ -1277,7 +1277,7 @@ infer_to_ml{device="cam2", id="59"} 21
 ml_to_core{device="cam2", id="59"} 22
 core_to_alarm{device="cam2", id="59"} 22
 alarm_to_core{device="cam2", id="59"} 22
-cf_timestamp{device="cam2", id="59"} 1
+cf_timestamp{device="cam2", id="59"} 1741322666.126071
 core_to_camera{device="cam2", id="60"} 18
 camera_to_core{device="cam2", id="60"} 18
 core_to_infer{device="cam2", id="60"} 18
@@ -1285,7 +1285,7 @@ infer_to_ml{device="cam2", id="60"} 18
 ml_to_core{device="cam2", id="60"} 17
 core_to_alarm{device="cam2", id="60"} 17
 alarm_to_core{device="cam2", id="60"} 17
-cf_timestamp{device="cam2", id="60"} 1
+cf_timestamp{device="cam2", id="60"} 1741322668.294214
 core_to_camera{device="cam2", id="61"} 21
 camera_to_core{device="cam2", id="61"} 21
 core_to_infer{device="cam2", id="61"} 21
@@ -1293,7 +1293,7 @@ infer_to_ml{device="cam2", id="61"} 21
 ml_to_core{device="cam2", id="61"} 22
 core_to_alarm{device="cam2", id="61"} 22
 alarm_to_core{device="cam2", id="61"} 22
-cf_timestamp{device="cam2", id="61"} 1
+cf_timestamp{device="cam2", id="61"} 1741322670.294168
 core_to_camera{device="cam2", id="62"} 21
 camera_to_core{device="cam2", id="62"} 21
 core_to_infer{device="cam2", id="62"} 21
@@ -1301,7 +1301,7 @@ infer_to_ml{device="cam2", id="62"} 21
 ml_to_core{device="cam2", id="62"} 21
 core_to_alarm{device="cam2", id="62"} 21
 alarm_to_core{device="cam2", id="62"} 21
-cf_timestamp{device="cam2", id="62"} 1
+cf_timestamp{device="cam2", id="62"} 1741322672.318910
 core_to_camera{device="cam2", id="63"} 19
 camera_to_core{device="cam2", id="63"} 19
 core_to_infer{device="cam2", id="63"} 19
@@ -1309,7 +1309,7 @@ infer_to_ml{device="cam2", id="63"} 19
 ml_to_core{device="cam2", id="63"} 19
 core_to_alarm{device="cam2", id="63"} 19
 alarm_to_core{device="cam2", id="63"} 19
-cf_timestamp{device="cam2", id="63"} 1
+cf_timestamp{device="cam2", id="63"} 1741322674.509036
 core_to_camera{device="cam2", id="64"} 20
 camera_to_core{device="cam2", id="64"} 20
 core_to_infer{device="cam2", id="64"} 20
@@ -1317,7 +1317,7 @@ infer_to_ml{device="cam2", id="64"} 20
 ml_to_core{device="cam2", id="64"} 20
 core_to_alarm{device="cam2", id="64"} 20
 alarm_to_core{device="cam2", id="64"} 19
-cf_timestamp{device="cam2", id="64"} 1
+cf_timestamp{device="cam2", id="64"} 1741322676.602860
 core_to_camera{device="cam2", id="65"} 20
 camera_to_core{device="cam2", id="65"} 20
 core_to_infer{device="cam2", id="65"} 20
@@ -1325,7 +1325,7 @@ infer_to_ml{device="cam2", id="65"} 20
 ml_to_core{device="cam2", id="65"} 19
 core_to_alarm{device="cam2", id="65"} 19
 alarm_to_core{device="cam2", id="65"} 20
-cf_timestamp{device="cam2", id="65"} 1
+cf_timestamp{device="cam2", id="65"} 1741322678.660344
 core_to_camera{device="cam2", id="66"} 18
 camera_to_core{device="cam2", id="66"} 18
 core_to_infer{device="cam2", id="66"} 18
@@ -1333,7 +1333,7 @@ infer_to_ml{device="cam2", id="66"} 18
 ml_to_core{device="cam2", id="66"} 19
 core_to_alarm{device="cam2", id="66"} 19
 alarm_to_core{device="cam2", id="66"} 19
-cf_timestamp{device="cam2", id="66"} 1
+cf_timestamp{device="cam2", id="66"} 1741322680.725086
 core_to_camera{device="cam2", id="67"} 21
 camera_to_core{device="cam2", id="67"} 21
 core_to_infer{device="cam2", id="67"} 21
@@ -1341,7 +1341,7 @@ infer_to_ml{device="cam2", id="67"} 21
 ml_to_core{device="cam2", id="67"} 21
 core_to_alarm{device="cam2", id="67"} 21
 alarm_to_core{device="cam2", id="67"} 21
-cf_timestamp{device="cam2", id="67"} 1
+cf_timestamp{device="cam2", id="67"} 1741322682.679786
 core_to_camera{device="cam2", id="68"} 20
 camera_to_core{device="cam2", id="68"} 20
 core_to_infer{device="cam2", id="68"} 20
@@ -1349,7 +1349,7 @@ infer_to_ml{device="cam2", id="68"} 20
 ml_to_core{device="cam2", id="68"} 19
 core_to_alarm{device="cam2", id="68"} 19
 alarm_to_core{device="cam2", id="68"} 19
-cf_timestamp{device="cam2", id="68"} 1
+cf_timestamp{device="cam2", id="68"} 1741322684.753292
 core_to_camera{device="cam2", id="69"} 20
 camera_to_core{device="cam2", id="69"} 20
 core_to_infer{device="cam2", id="69"} 20
@@ -1357,7 +1357,7 @@ infer_to_ml{device="cam2", id="69"} 20
 ml_to_core{device="cam2", id="69"} 21
 core_to_alarm{device="cam2", id="69"} 21
 alarm_to_core{device="cam2", id="69"} 21
-cf_timestamp{device="cam2", id="69"} 1
+cf_timestamp{device="cam2", id="69"} 1741322686.747519
 core_to_camera{device="cam2", id="70"} 20
 camera_to_core{device="cam2", id="70"} 20
 core_to_infer{device="cam2", id="70"} 20
@@ -1365,7 +1365,7 @@ infer_to_ml{device="cam2", id="70"} 20
 ml_to_core{device="cam2", id="70"} 20
 core_to_alarm{device="cam2", id="70"} 20
 alarm_to_core{device="cam2", id="70"} 19
-cf_timestamp{device="cam2", id="70"} 1
+cf_timestamp{device="cam2", id="70"} 1741322688.819729
 core_to_camera{device="cam2", id="71"} 22
 camera_to_core{device="cam2", id="71"} 22
 core_to_infer{device="cam2", id="71"} 22
@@ -1373,7 +1373,7 @@ infer_to_ml{device="cam2", id="71"} 22
 ml_to_core{device="cam2", id="71"} 21
 core_to_alarm{device="cam2", id="71"} 21
 alarm_to_core{device="cam2", id="71"} 22
-cf_timestamp{device="cam2", id="71"} 1
+cf_timestamp{device="cam2", id="71"} 1741322690.870444
 core_to_camera{device="cam2", id="72"} 18
 camera_to_core{device="cam2", id="72"} 18
 core_to_infer{device="cam2", id="72"} 18
@@ -1381,7 +1381,7 @@ infer_to_ml{device="cam2", id="72"} 18
 ml_to_core{device="cam2", id="72"} 18
 core_to_alarm{device="cam2", id="72"} 18
 alarm_to_core{device="cam2", id="72"} 18
-cf_timestamp{device="cam2", id="72"} 1
+cf_timestamp{device="cam2", id="72"} 1741322693.050321
 core_to_camera{device="cam2", id="73"} 21
 camera_to_core{device="cam2", id="73"} 20
 core_to_infer{device="cam2", id="73"} 20
@@ -1389,7 +1389,7 @@ infer_to_ml{device="cam2", id="73"} 20
 ml_to_core{device="cam2", id="73"} 21
 core_to_alarm{device="cam2", id="73"} 21
 alarm_to_core{device="cam2", id="73"} 21
-cf_timestamp{device="cam2", id="73"} 1
+cf_timestamp{device="cam2", id="73"} 1741322695.094925
 core_to_camera{device="cam2", id="74"} 21
 camera_to_core{device="cam2", id="74"} 22
 core_to_infer{device="cam2", id="74"} 22
@@ -1397,7 +1397,7 @@ infer_to_ml{device="cam2", id="74"} 22
 ml_to_core{device="cam2", id="74"} 22
 core_to_alarm{device="cam2", id="74"} 22
 alarm_to_core{device="cam2", id="74"} 21
-cf_timestamp{device="cam2", id="74"} 1
+cf_timestamp{device="cam2", id="74"} 1741322697.206594
 core_to_camera{device="cam2", id="75"} 18
 camera_to_core{device="cam2", id="75"} 18
 core_to_infer{device="cam2", id="75"} 18
@@ -1405,7 +1405,7 @@ infer_to_ml{device="cam2", id="75"} 18
 ml_to_core{device="cam2", id="75"} 18
 core_to_alarm{device="cam2", id="75"} 18
 alarm_to_core{device="cam2", id="75"} 19
-cf_timestamp{device="cam2", id="75"} 1
+cf_timestamp{device="cam2", id="75"} 1741322699.506899
 core_to_camera{device="cam2", id="76"} 22
 camera_to_core{device="cam2", id="76"} 21
 core_to_infer{device="cam2", id="76"} 21
@@ -1413,7 +1413,7 @@ infer_to_ml{device="cam2", id="76"} 21
 ml_to_core{device="cam2", id="76"} 21
 core_to_alarm{device="cam2", id="76"} 21
 alarm_to_core{device="cam2", id="76"} 21
-cf_timestamp{device="cam2", id="76"} 1
+cf_timestamp{device="cam2", id="76"} 1741322701.558169
 core_to_camera{device="cam2", id="77"} 19
 camera_to_core{device="cam2", id="77"} 20
 core_to_infer{device="cam2", id="77"} 20
@@ -1421,7 +1421,7 @@ infer_to_ml{device="cam2", id="77"} 20
 ml_to_core{device="cam2", id="77"} 20
 core_to_alarm{device="cam2", id="77"} 20
 alarm_to_core{device="cam2", id="77"} 19
-cf_timestamp{device="cam2", id="77"} 1
+cf_timestamp{device="cam2", id="77"} 1741322703.769154
 core_to_camera{device="cam2", id="78"} 20
 camera_to_core{device="cam2", id="78"} 20
 core_to_infer{device="cam2", id="78"} 20
@@ -1429,7 +1429,7 @@ infer_to_ml{device="cam2", id="78"} 20
 ml_to_core{device="cam2", id="78"} 20
 core_to_alarm{device="cam2", id="78"} 20
 alarm_to_core{device="cam2", id="78"} 21
-cf_timestamp{device="cam2", id="78"} 1
+cf_timestamp{device="cam2", id="78"} 1741322705.977071
 core_to_camera{device="cam2", id="79"} 19
 camera_to_core{device="cam2", id="79"} 19
 core_to_infer{device="cam2", id="79"} 19
@@ -1437,7 +1437,7 @@ infer_to_ml{device="cam2", id="79"} 19
 ml_to_core{device="cam2", id="79"} 19
 core_to_alarm{device="cam2", id="79"} 19
 alarm_to_core{device="cam2", id="79"} 19
-cf_timestamp{device="cam2", id="79"} 1
+cf_timestamp{device="cam2", id="79"} 1741322708.157379
 core_to_camera{device="cam2", id="80"} 18
 camera_to_core{device="cam2", id="80"} 18
 core_to_infer{device="cam2", id="80"} 18
@@ -1445,7 +1445,7 @@ infer_to_ml{device="cam2", id="80"} 18
 ml_to_core{device="cam2", id="80"} 18
 core_to_alarm{device="cam2", id="80"} 18
 alarm_to_core{device="cam2", id="80"} 18
-cf_timestamp{device="cam2", id="80"} 1
+cf_timestamp{device="cam2", id="80"} 1741322710.299818
 core_to_camera{device="cam2", id="81"} 23
 camera_to_core{device="cam2", id="81"} 23
 core_to_infer{device="cam2", id="81"} 23
@@ -1453,7 +1453,7 @@ infer_to_ml{device="cam2", id="81"} 23
 ml_to_core{device="cam2", id="81"} 23
 core_to_alarm{device="cam2", id="81"} 23
 alarm_to_core{device="cam2", id="81"} 23
-cf_timestamp{device="cam2", id="81"} 1
+cf_timestamp{device="cam2", id="81"} 1741322712.238696
 core_to_camera{device="cam2", id="82"} 17
 camera_to_core{device="cam2", id="82"} 17
 core_to_infer{device="cam2", id="82"} 17
@@ -1461,7 +1461,7 @@ infer_to_ml{device="cam2", id="82"} 17
 ml_to_core{device="cam2", id="82"} 17
 core_to_alarm{device="cam2", id="82"} 17
 alarm_to_core{device="cam2", id="82"} 17
-cf_timestamp{device="cam2", id="82"} 1
+cf_timestamp{device="cam2", id="82"} 1741322714.472514
 core_to_camera{device="cam2", id="83"} 23
 camera_to_core{device="cam2", id="83"} 23
 core_to_infer{device="cam2", id="83"} 23
@@ -1469,7 +1469,7 @@ infer_to_ml{device="cam2", id="83"} 23
 ml_to_core{device="cam2", id="83"} 22
 core_to_alarm{device="cam2", id="83"} 22
 alarm_to_core{device="cam2", id="83"} 22
-cf_timestamp{device="cam2", id="83"} 1
+cf_timestamp{device="cam2", id="83"} 1741322716.446910
 core_to_camera{device="cam2", id="84"} 20
 camera_to_core{device="cam2", id="84"} 20
 core_to_infer{device="cam2", id="84"} 20
@@ -1477,7 +1477,7 @@ infer_to_ml{device="cam2", id="84"} 20
 ml_to_core{device="cam2", id="84"} 21
 core_to_alarm{device="cam2", id="84"} 21
 alarm_to_core{device="cam2", id="84"} 21
-cf_timestamp{device="cam2", id="84"} 1
+cf_timestamp{device="cam2", id="84"} 1741322718.585104
 core_to_camera{device="cam2", id="85"} 20
 camera_to_core{device="cam2", id="85"} 20
 core_to_infer{device="cam2", id="85"} 20
@@ -1485,7 +1485,7 @@ infer_to_ml{device="cam2", id="85"} 20
 ml_to_core{device="cam2", id="85"} 20
 core_to_alarm{device="cam2", id="85"} 20
 alarm_to_core{device="cam2", id="85"} 19
-cf_timestamp{device="cam2", id="85"} 1
+cf_timestamp{device="cam2", id="85"} 1741322720.803240
 core_to_camera{device="cam2", id="86"} 20
 camera_to_core{device="cam2", id="86"} 20
 core_to_infer{device="cam2", id="86"} 20
@@ -1493,4 +1493,4 @@ infer_to_ml{device="cam2", id="86"} 20
 ml_to_core{device="cam2", id="86"} 19
 core_to_alarm{device="cam2", id="86"} 19
 alarm_to_core{device="cam2", id="86"} 20
-cf_timestamp{device="cam2", id="86"} 1
+cf_timestamp{device="cam2", id="86"} 1741322723.036649
