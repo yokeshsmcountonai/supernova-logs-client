@@ -11,6 +11,7 @@ DB_PASSWORD = "55555"
 def get_db_connection():
     """Establish and return a connection to the PostgreSQL database."""
     try:
+        print(DB_HOST,'$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$')
         conn = psycopg2.connect(
             host=DB_HOST,
             port=DB_PORT,
@@ -168,7 +169,7 @@ def fetch_details_core_fpr():
                     ml_to_core, core_to_alarm, alarm_to_core, revolution_id,
                     (SELECT c_timestamp FROM selected_rows WHERE selected_rows.corefprlog_id = corefpr_log_cam1.corefprlog_id) AS c_timestamp
         )
-        SELECT core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
+        SELECT revolution_id,core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
             ml_to_core, core_to_alarm, alarm_to_core, c_timestamp
         FROM updated_rows
         ORDER BY revolution_id;
@@ -195,25 +196,18 @@ def fetch_details_core_fpr():
                     ml_to_core, core_to_alarm, alarm_to_core, revolution_id,
                     (SELECT c_timestamp FROM selected_rows WHERE selected_rows.corefprlog_id = corefpr_log_cam2.corefprlog_id) AS c_timestamp
         )
-        SELECT core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
+        SELECT revolution_id,core_to_camera, camera_to_core, core_to_infer, infer_to_ml, 
             ml_to_core, core_to_alarm, alarm_to_core, c_timestamp
         FROM updated_rows
         ORDER BY revolution_id;
-
         """
-        # SELECT core_to_camera,camera_to_core,core_to_infer,infer_to_ml,ml_to_core, core_to_alarm, alarm_to_core,EXTRACT(EPOCH FROM rotation_details.timestamp) AS c_timestamp
-        # FROM public.corefpr_log_cam2
-        # JOIN public.rotation_details 
-        #      ON corefpr_log_cam2.revolution_id = rotation_details.rotation_id
-        #      ORDER BY rotation_details.timestamp DESC
-        #      OFFSET 3
-        #      LIMIT 20
-        # Execute each query separately
         cursor.execute(cam1_query)
         cam1_result = cursor.fetchall()
+        conn.commit() 
 
         cursor.execute(cam2_query)
         cam2_result = cursor.fetchall()
+        conn.commit() 
 
         
 

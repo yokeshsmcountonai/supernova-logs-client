@@ -40,7 +40,7 @@ def fetch_data():
     try:
         device_list = ["cam1_logs", "cam2_logs", "cm5_logs"]
         corefpr_metrics = [
-            "core_to_camera", "camera_to_core", "core_to_infer",
+            "revolution_id","core_to_camera", "camera_to_core", "core_to_infer",
             "infer_to_ml", "ml_to_core", "core_to_alarm", "alarm_to_core", "cf_timestamp"
         ]
 
